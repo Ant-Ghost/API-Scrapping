@@ -31,7 +31,7 @@ class Match:
             "id": self.id,
             "home_team": self.home_team,
             "away_team": self.away_team,
-            "start_time": self.start_time,
+            "start_time": str(self.start_time),
             "league": self.league,
             "odds": [odd.to_dict() for odd in self.odds]
         }

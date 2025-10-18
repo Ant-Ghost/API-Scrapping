@@ -39,17 +39,15 @@ class PlayerService:
 
             data: Dict = gql_query_builder.build_and_execute()
 
-            results: List[Dict] = data.get("search",{}).get("result", [])
+            results: List[Dict] = data.get("search",{}).get("results", [])
 
             players: List[Player] = []
-
-            import ipdb; ipdb.set_trace()
 
             for result in results:
                 markets = self.get_markets(result["markets64"])
                 players.append(Player(
                     opponent=self._id_to_opponent_map[result["participant"]["opponentId"]],
-                    full_name=result["participant"]["fullName"],
+                    full_name=result["participant"]["player"]["fullName"],
                     markets=markets
                 ))
 
@@ -64,7 +62,7 @@ class PlayerService:
             markets_message = decode_protobuf(markets64_string, pb.Markets())
 
             for market in markets_message.markets:
-            # Extract Market details
+                # Extract Market details
                 market_id = market.id
                 market_category = market.category
 
@@ -88,5 +86,3 @@ class PlayerService:
         except Exception as e:
             print_exception(e)
             raise Exception(f"Error getting markets: {str(e)}")
-
-# def process_probability(market_dict: Dict, outcome: str, probability: Dict[Literal["line", "over", "under"], float]):

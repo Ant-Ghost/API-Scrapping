@@ -1,3 +1,5 @@
+import json
+
 from domain.league import GameMap
 from domain.player import PlayerMap
 from service.league import LeagueService
@@ -37,4 +39,9 @@ for sport in sport_service.get_allowed_sports():
         game_map,
         dynamic_margin,
     )
-    match_odds_service.perform_match_odds()
+    matches = match_odds_service.perform_match_odds()
+
+    json_dict = [match.to_dict() for match in matches]
+
+    with open(f"output/{sport.name}.json", "w") as f:
+        json.dump(json_dict, f, indent=2)

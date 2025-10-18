@@ -27,9 +27,18 @@ class MatchOddsService:
             print_exception(e)
             raise Exception(f"Error initializing MatchOddsService: {str(e)}")
 
-    def perform_match_odds(self):
+    def perform_match_odds(self ):#players: List[Player]
         try:
             required_match_list: List[Match] = []
+
+            yes, no = 0, 0
+
+            # for player in players:
+            #     league = self.opponent_map._opponent_id_to_league_map.get(player.opponent.id)
+            #     if league:
+            #         yes += 1
+            #     else:
+            #         no += 1
 
             for game in self.game_map._id_to_game_map.values():
 
