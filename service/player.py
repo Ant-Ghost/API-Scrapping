@@ -3,7 +3,6 @@ import zlib
 from datetime import datetime
 from typing import Dict, List, Literal
 
-# Import the generated Protobuf classes
 from constants.player import PLAYER_GQL_QUERY, PLAYER_OPERATION_NAME
 from domain.league import League, OpponentMap
 from domain.player import Market, Player, Probability
@@ -62,7 +61,7 @@ class PlayerService:
             markets_message = decode_protobuf(markets64_string, pb.Markets())
 
             for market in markets_message.markets:
-                # Extract Market details
+                
                 market_id = market.id
                 market_category = market.category
 

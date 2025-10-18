@@ -10,7 +10,7 @@ from service.sport import SportService
 required_sports = [
     "football", 
     "baseball", 
-    # "basketball"
+    "basketball"
 ]
 
 sport_service = SportService(required_sports)

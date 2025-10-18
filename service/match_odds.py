@@ -27,18 +27,9 @@ class MatchOddsService:
             print_exception(e)
             raise Exception(f"Error initializing MatchOddsService: {str(e)}")
 
-    def perform_match_odds(self ):#players: List[Player]
+    def perform_match_odds(self ):
         try:
             required_match_list: List[Match] = []
-
-            yes, no = 0, 0
-
-            # for player in players:
-            #     league = self.opponent_map._opponent_id_to_league_map.get(player.opponent.id)
-            #     if league:
-            #         yes += 1
-            #     else:
-            #         no += 1
 
             for game in self.game_map._id_to_game_map.values():
 
@@ -102,10 +93,9 @@ class MatchOddsService:
 
     def perform_odds(self, market: Market, game: Game):
         try:
-            league_name = LeagueNames(self.game_map._game_id_to_league_map[game.id].name)
 
             margin = self.dynamic_margin.get_dynamic_margin(
-                league_name=league_name,
+                league_name_string=self.game_map._game_id_to_league_map[game.id].name,
                 category_name=market.category.name,
                 is_live=self.isLive(market.id)
             )
@@ -134,12 +124,7 @@ class MatchOddsService:
 
 
     def get_median_probability(self, probabilities: List[Probability]) -> Optional[Probability]:
-        """
-        Replicates the medianProbability logic: finds the probability object
-        where the absolute difference between over and under raw probabilities is minimized.
-        """
         try:
-            # Filter out invalid probabilities (void 0 in JS means None in Protobuf)
             valid_probabilities = [
                 p for p in probabilities
                 if bool(p.over) or bool(p.under)
@@ -148,8 +133,6 @@ class MatchOddsService:
             if not valid_probabilities:
                 return None
 
-            # Sort based on the absolute difference between over and under
-            # The first element is the median probability (minimum difference)
             valid_probabilities.sort(key=lambda p: abs(p.over - p.under))
 
             return valid_probabilities[0]
@@ -183,18 +166,15 @@ class MatchOddsService:
         self,
         raw_probability: float,
         format_type: str,
-        # apply_margin: bool,
         custom_margin: float
     ):
         try:
             if not raw_probability:
                 return 0.0
 
-            # System Margin is confirmed to be 0.13
             default_system_margin = 0.13
             required_margin = custom_margin if custom_margin is not None else default_system_margin
 
-            # Calculate Adjusted Probability (o)
             adjusted_probability = self.apply_margin_to_probability(raw_probability, required_margin)
 
             # Calculate Decimal Odds (l = 1 / o)
@@ -202,12 +182,9 @@ class MatchOddsService:
                 return 0.0
             l = 1 / adjusted_probability
 
-            # For 'decimal' type, the JS formats and rounds to 2 decimal places.
             if format_type == 'decimal':
-                # We round to match the UI's display precision before returning the float.
                 return round(l, 2)
 
-            # Add other formats here if needed, but 'decimal' is the target for Odd.decimal_odds
             return round(l, 2)
         except Exception as e:
             print_exception(e)

@@ -58,7 +58,11 @@ class DynamicMargin:
 
     def __init__(self) -> None:
         try:
-            self.league_to_margin_map = {
+            self.league_to_historical_data_map: Dict[
+                LeagueNames, Dict[
+                    str, Dict[Literal["inPlayMargin", "preGameMargin"], float]
+                ]
+            ] = {
                 LeagueNames.NCAA: {},
                 LeagueNames.MLB: {},
                 LeagueNames.NFL: {}
@@ -87,7 +91,7 @@ class DynamicMargin:
 
                 category_name = self.CATEGORIES_NAME_MAP[data["category_key"]]
 
-                self.league_to_margin_map[league_name][category_name] = {
+                self.league_to_historical_data_map[league_name][category_name] = {
                     "inPlayMargin": self.calc_margin(data.get("historical_inplay_margin")),
                     "preGameMargin":self.calc_margin(data.get("historical_pregame_margin"))
                 }
@@ -97,12 +101,25 @@ class DynamicMargin:
 
     def get_dynamic_margin(
         self,
-        league_name: LeagueNames,
+        league_name_string: str,
         category_name: str,
         is_live: bool
     ):
         try:
-            margins: Optional[Dict[str, float]] = self.league_to_margin_map[league_name].get(category_name)
+            
+            if league_name_string not in (name.value for name in LeagueNames):
+                print("League not found", league_name_string, category_name, is_live)
+                return 0.0
+            
+            league_name = LeagueNames(league_name_string)
+
+            historical_data: Optional[Dict] = self.league_to_historical_data_map[(league_name)].get(category_name)
+
+            if not historical_data:
+                print("Historical data not found", league_name, category_name, is_live)
+                return 0.0
+
+            margins: Optional[Dict[str, float]] = historical_data.get(category_name)
             if not margins:
                 print("Margin not found", league_name, category_name, is_live)
                 return 0.0
