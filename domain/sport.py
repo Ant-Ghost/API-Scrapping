@@ -15,10 +15,10 @@ class Sport:
 
 class CategoryMap:
 
-    _id_to_category_map: Dict[str, Category] = {}
-    category_id_to_sports_map: Dict[str, Sport] = {}
-
     def __init__(self, sports: List[Sport]) -> None:
+        self._id_to_category_map: Dict[str, Category] = {}
+        self.category_id_to_sports_map: Dict[str, Sport] = {}
+
         for sport in sports:
             self._id_to_category_map.update({
                 category.id : category
@@ -31,8 +31,8 @@ class CategoryMap:
             })
 
 class SportMap:
-    _id_to_sport_map : Dict[str, Sport] = {}
 
     def __init__(self, sports: List[Sport]):
+        self._id_to_sport_map : Dict[str, Sport] = {}
         for sport in sports:
             self._id_to_sport_map[sport.id] = sport

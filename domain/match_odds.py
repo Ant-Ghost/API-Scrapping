@@ -7,6 +7,7 @@ class Odd:
     id: str
     market: str
     player_name: str
+    selected_line: float
     decimal_odds: float
 
     def to_dict(self):
@@ -14,6 +15,7 @@ class Odd:
             "id": self.id,
             "market": self.market,
             "player_name": self.player_name,
+            "selected_line": self.selected_line,
             "decimal_odds": self.decimal_odds
         }
 

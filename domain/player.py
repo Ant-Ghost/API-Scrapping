@@ -26,10 +26,10 @@ class Player:
 
 class PlayerMap:
 
-    _id_to_player_map: Dict[str, Player] = {}
-    _opponent_id_to_player_list_map: Dict[str, List[Player]] = {}
-
     def __init__(self, players: List[Player]):
+        self._id_to_player_map: Dict[str, Player] = {}
+        self._opponent_id_to_player_list_map: Dict[str, List[Player]] = {}
+
         for player in players:
             self._id_to_player_map[player.opponent.id] = player
             self._opponent_id_to_player_list_map.setdefault(player.opponent.id, []).append(player)

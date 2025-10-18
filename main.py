@@ -1,5 +1,7 @@
 import json
 
+from datetime import datetime
+
 from domain.league import GameMap
 from domain.player import PlayerMap
 from service.league import LeagueService
@@ -28,7 +30,6 @@ player_service = PlayerService(
 )
 dynamic_margin = DynamicMargin()
 
-
 for sport in sport_service.get_allowed_sports():
 
     players = player_service.fetch_players(sport.id)
@@ -43,5 +44,5 @@ for sport in sport_service.get_allowed_sports():
 
     json_dict = [match.to_dict() for match in matches]
 
-    with open(f"output/{sport.name}.json", "w") as f:
+    with open(f"output/{sport.name}-{datetime.now().strftime('%Y-%m-%d-%H-%M-%S')}.json", "w") as f:
         json.dump(json_dict, f, indent=2)

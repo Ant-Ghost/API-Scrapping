@@ -1,0 +1,17 @@
+curl 'https://api3.hotstreak.gg/graphql?query=query+search%28%24query%3A+String+%24page%3A+Int+%24filters%3A+SearchFilterInput%29+%7B+search%28query%3A+%24query+page%3A+%24page+filters%3A+%24filters%29+%7B+__typename+categoryFilters+dateFilters+gameFilters+leagueFilters+positionFilters+results+%7B+__typename+markets64+participant+%7B+__typename+id+opponentId+player+%7B+__typename+id+createdAt+firstName+fullName+generatedAt+lastName+position+updatedAt+%7D+%7D+%7D+sportFilters+statusFilters+teamFilters+totalCount+%7D+%7D&variables=%7B%22filters%22%3A%7B%22activeMarketsOnly%22%3Atrue%2C%22sport%22%3A%22Z2lkOi8vaHMzL1Nwb3J0LzI%22%7D%7D&operationName=search' \
+  -H 'accept: application/graphql-response+json, application/json' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'if-none-match: 4e33a4d2bc7ca0983784c820b5b027d9' \
+  -H 'origin: https://hs3.hotstreak.gg' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://hs3.hotstreak.gg/' \
+  -H 'sec-ch-ua: "Brave";v="135", "Not-A.Brand";v="8", "Chromium";v="135"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36' \
+  -H 'x-hs3-version: 2' \
+  -H 'x-requested-with: web'

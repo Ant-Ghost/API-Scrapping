@@ -1,0 +1,4074 @@
+{
+    "data": {
+        "games": [
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMDcy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjA3Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTEwOQ",
+                            "abbreviation": "Bos",
+                            "name": "Celtics"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjA3NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE3Nw",
+                            "abbreviation": "NY",
+                            "name": "Knicks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-24T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMTcz",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjE3Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODg0",
+                            "abbreviation": "LAL",
+                            "name": "Lakers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjE3Mw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAwOQ",
+                            "abbreviation": "GS",
+                            "name": "Warriors"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNjA0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjYwNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTQ0",
+                            "abbreviation": "Mia",
+                            "name": "Heat"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjYwNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTExMQ",
+                            "abbreviation": "Orl",
+                            "name": "Magic"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyOTE2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjkxNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTc3",
+                            "abbreviation": "Por",
+                            "name": "Trail Blazers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjkxNg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI3Mw",
+                            "abbreviation": "Min",
+                            "name": "Timberwolves"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMTYx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzE2NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTMwNw",
+                            "abbreviation": "Mil",
+                            "name": "Bucks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzE2MQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODU2",
+                            "abbreviation": "Was",
+                            "name": "Wizards"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMzQ3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjM0Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAwOQ",
+                            "abbreviation": "GS",
+                            "name": "Warriors"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjM1NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAzOQ",
+                            "abbreviation": "Den",
+                            "name": "Nuggets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-24T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyODU0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjg2MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE0Mw",
+                            "abbreviation": "Pho",
+                            "name": "Suns"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjg1NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAzOQ",
+                            "abbreviation": "Den",
+                            "name": "Nuggets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-26T01:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyOTg0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjk4NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA0MQ",
+                            "abbreviation": "Sac",
+                            "name": "Kings"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjk4Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE0Mw",
+                            "abbreviation": "Pho",
+                            "name": "Suns"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNTc0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjU3NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTEz",
+                            "abbreviation": "Tor",
+                            "name": "Raptors"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjU3NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTMwNw",
+                            "abbreviation": "Mil",
+                            "name": "Bucks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-24T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNzk2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjc5Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA3NA",
+                            "abbreviation": "LAC",
+                            "name": "Clippers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjc5OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE0Mw",
+                            "abbreviation": "Pho",
+                            "name": "Suns"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T02:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMTMw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzEzMA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI3Nw",
+                            "abbreviation": "Mem",
+                            "name": "Grizzlies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzEzMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTIxMA",
+                            "abbreviation": "Ind",
+                            "name": "Pacers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-26T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMzA3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjMwOQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTIxMA",
+                            "abbreviation": "Ind",
+                            "name": "Pacers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjMwNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE0OA",
+                            "abbreviation": "OKC",
+                            "name": "Thunder"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyODI2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjgyNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA0MQ",
+                            "abbreviation": "Sac",
+                            "name": "Kings"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjgyNg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTc4",
+                            "abbreviation": "Uta",
+                            "name": "Jazz"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNDk3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjQ5OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODU4",
+                            "abbreviation": "Phi",
+                            "name": "76ers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjUwNQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTEwOQ",
+                            "abbreviation": "Bos",
+                            "name": "Celtics"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNjQ1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjY0NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTExMQ",
+                            "abbreviation": "Orl",
+                            "name": "Magic"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjY0OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI0NA",
+                            "abbreviation": "Atl",
+                            "name": "Hawks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-24T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNDU3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjQ1OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI0NA",
+                            "abbreviation": "Atl",
+                            "name": "Hawks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjQ1Nw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTEz",
+                            "abbreviation": "Tor",
+                            "name": "Raptors"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNzI0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjcyOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTc4",
+                            "abbreviation": "Uta",
+                            "name": "Jazz"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjcyNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA3NA",
+                            "abbreviation": "LAC",
+                            "name": "Clippers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T01:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNzY2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjc2Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODg1",
+                            "abbreviation": "Dal",
+                            "name": "Mavericks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjc2Nw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODU2",
+                            "abbreviation": "Was",
+                            "name": "Wizards"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T00:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMTMy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjEzMQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA3Mw",
+                            "abbreviation": "Hou",
+                            "name": "Rockets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjEzMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE0OA",
+                            "abbreviation": "OKC",
+                            "name": "Thunder"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNTQ0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjU0NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTIxMg",
+                            "abbreviation": "Cle",
+                            "name": "Cavaliers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjU0NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI0Ng",
+                            "abbreviation": "Bkn",
+                            "name": "Nets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-24T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNjc1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjY3Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI0Ng",
+                            "abbreviation": "Bkn",
+                            "name": "Nets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjY3NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTE0",
+                            "abbreviation": "Cha",
+                            "name": "Hornets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMjAx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzIwMQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTMwOA",
+                            "abbreviation": "NO",
+                            "name": "Pelicans"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzIwMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAwOA",
+                            "abbreviation": "SA",
+                            "name": "Spurs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyODg2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjg4OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE3OA",
+                            "abbreviation": "Det",
+                            "name": "Pistons"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjg4Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTA3Mw",
+                            "abbreviation": "Hou",
+                            "name": "Rockets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyOTU0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjk1NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAwOQ",
+                            "abbreviation": "GS",
+                            "name": "Warriors"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjk1NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTc3",
+                            "abbreviation": "Por",
+                            "name": "Trail Blazers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMDI1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzAyNQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODU4",
+                            "abbreviation": "Phi",
+                            "name": "76ers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzAyOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTE0",
+                            "abbreviation": "Cha",
+                            "name": "Hornets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMDU1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzA1Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI3Nw",
+                            "abbreviation": "Mem",
+                            "name": "Grizzlies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzA1NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTMwOA",
+                            "abbreviation": "NO",
+                            "name": "Pelicans"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMzky",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjM5NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTQ1",
+                            "abbreviation": "Chi",
+                            "name": "Bulls"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjM5Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE3OA",
+                            "abbreviation": "Det",
+                            "name": "Pistons"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMjE2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjIxOQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTIxMg",
+                            "abbreviation": "Cle",
+                            "name": "Cavaliers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjIxNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTE3Nw",
+                            "abbreviation": "NY",
+                            "name": "Knicks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMTAy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjEwMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODg0",
+                            "abbreviation": "LAL",
+                            "name": "Lakers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjEwNg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI3Mw",
+                            "abbreviation": "Min",
+                            "name": "Timberwolves"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyMjY1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjI2NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vODg1",
+                            "abbreviation": "Dal",
+                            "name": "Mavericks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjI2OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAwOA",
+                            "abbreviation": "SA",
+                            "name": "Spurs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T01:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEyNDI3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjQyOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTQ1",
+                            "abbreviation": "Chi",
+                            "name": "Bulls"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjQyNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTExMQ",
+                            "abbreviation": "Orl",
+                            "name": "Magic"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMTAx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8x",
+                    "name": "NBA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzE"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzEwMQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTI3Nw",
+                            "abbreviation": "Mem",
+                            "name": "Grizzlies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzEwMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTQ0",
+                            "abbreviation": "Mia",
+                            "name": "Heat"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4NDc2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODQ3Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUyNTE",
+                            "abbreviation": "LAR",
+                            "name": "Rams"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODQ3Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQzMTg",
+                            "abbreviation": "Jax",
+                            "name": "Jaguars"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T13:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4NTUy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODU1Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ1MjI",
+                            "abbreviation": "LAC",
+                            "name": "Chargers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODU1Nw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQxMTI",
+                            "abbreviation": "Ind",
+                            "name": "Colts"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T20:05:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA5MTM4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTEzOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQwMTM",
+                            "abbreviation": "TB",
+                            "name": "Buccaneers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTE0MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUzNDc",
+                            "abbreviation": "Det",
+                            "name": "Lions"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA1OTc4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNTk3OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ0MTY",
+                            "abbreviation": "Phi",
+                            "name": "Eagles"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNTk3OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTU1NDY",
+                            "abbreviation": "Min",
+                            "name": "Vikings"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwMDky",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDA5Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQwMTQ",
+                            "abbreviation": "Atl",
+                            "name": "Falcons"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDA5NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUwNDc",
+                            "abbreviation": "SF",
+                            "name": "49ers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T00:20:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA5MDYw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTA2MQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ3MzM",
+                            "abbreviation": "LV",
+                            "name": "Raiders"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTA2MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ1MjE",
+                            "abbreviation": "KC",
+                            "name": "Chiefs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwMjUx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDI1MQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQyMTg",
+                            "abbreviation": "Was",
+                            "name": "Commanders"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDI1Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ0MTc",
+                            "abbreviation": "Dal",
+                            "name": "Cowboys"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T20:25:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MzIw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODMyMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUxNTE",
+                            "abbreviation": "Den",
+                            "name": "Broncos"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODMyMA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQyMTY",
+                            "abbreviation": "NYG",
+                            "name": "Giants"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T20:05:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4NzA1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODcwNQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQxMTQ",
+                            "abbreviation": "Mia",
+                            "name": "Dolphins"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODcwNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ5NDA",
+                            "abbreviation": "Cle",
+                            "name": "Browns"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4NDAw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODQwMA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ4MzU",
+                            "abbreviation": "NYJ",
+                            "name": "Jets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODQwMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQzMTY",
+                            "abbreviation": "Car",
+                            "name": "Panthers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4Nzkw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODc5MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUxNDc",
+                            "abbreviation": "Ten",
+                            "name": "Titans"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODc5NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ3MzY",
+                            "abbreviation": "NE",
+                            "name": "Patriots"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4NjI4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODYzMQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUyNTM",
+                            "abbreviation": "Hou",
+                            "name": "Texans"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODYyOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUwNDg",
+                            "abbreviation": "Sea",
+                            "name": "Seahawks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwMTc1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDE3NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTU1NDQ",
+                            "abbreviation": "Chi",
+                            "name": "Bears"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDE3Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ2Mjg",
+                            "abbreviation": "NO",
+                            "name": "Saints"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4OTQ1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8y",
+                    "name": "NFL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODk0NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTQ2Mjc",
+                            "abbreviation": "Ari",
+                            "name": "Cardinals"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODk0OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNTUzNTE",
+                            "abbreviation": "GB",
+                            "name": "Packers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T20:25:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMjU5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8z",
+                    "name": "MLB",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzM"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzI1OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTQ",
+                            "abbreviation": "SEA",
+                            "name": "Mariners"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzI2MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTQz",
+                            "abbreviation": "TOR",
+                            "name": "Blue Jays"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T00:03:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNzgy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8z",
+                    "name": "MLB",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzM"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTc4Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMjkz",
+                            "abbreviation": "LAD",
+                            "name": "Dodgers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTc4Mw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMjU",
+                            "abbreviation": "MIL",
+                            "name": "Brewers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T00:38:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEzMjkx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS8z",
+                    "name": "MLB",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzM"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzI5Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMjU",
+                            "abbreviation": "MIL",
+                            "name": "Brewers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMzI5MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMjkz",
+                            "abbreviation": "LAD",
+                            "name": "Dodgers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T00:08:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMzAy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTMxMA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxODU3",
+                            "abbreviation": "CGY",
+                            "name": "Flames"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTMwMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwNjM",
+                            "abbreviation": "VGK",
+                            "name": "Golden Knights"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwMDEy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDAxMw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkxMzg",
+                            "abbreviation": "WSH",
+                            "name": "Capitals"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDAxMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMjk3",
+                            "abbreviation": "MIN",
+                            "name": "Wild"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-17T23:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNjI2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTYyNg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzc5",
+                            "abbreviation": "ANA",
+                            "name": "Ducks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTYyNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNjAz",
+                            "abbreviation": "CHI",
+                            "name": "Blackhawks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMzQw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTM0NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwMjQ",
+                            "abbreviation": "WPG",
+                            "name": "Jets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTM0MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMjA2",
+                            "abbreviation": "NSH",
+                            "name": "Predators"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExODg1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTg4NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNjYx",
+                            "abbreviation": "NYR",
+                            "name": "Rangers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTg4Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMjk3",
+                            "abbreviation": "MIN",
+                            "name": "Wild"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMDM1",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTAzNQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNjYx",
+                            "abbreviation": "NYR",
+                            "name": "Rangers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTAzNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNzcw",
+                            "abbreviation": "MTL",
+                            "name": "Canadiens"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMTEy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTExMw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzAw",
+                            "abbreviation": "STL",
+                            "name": "Blues"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTExMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwMjE",
+                            "abbreviation": "DAL",
+                            "name": "Stars"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMTg4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTE4OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxODE1",
+                            "abbreviation": "BOS",
+                            "name": "Bruins"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTE4OA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNzIy",
+                            "abbreviation": "COL",
+                            "name": "Avalanche"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T01:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMjY0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTI2NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMjA5",
+                            "abbreviation": "CBJ",
+                            "name": "Blue Jackets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTI2NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMTIw",
+                            "abbreviation": "TB",
+                            "name": "Lightning"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwNzg4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDc4OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxOTM4",
+                            "abbreviation": "NYI",
+                            "name": "Islanders"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDc4OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMTE2",
+                            "abbreviation": "OTT",
+                            "name": "Senators"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMjI2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTIyOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNzE3",
+                            "abbreviation": "LA",
+                            "name": "Kings"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTIyNg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkxMzY",
+                            "abbreviation": "CAR",
+                            "name": "Hurricanes"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T01:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA5OTc0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTk3NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyNDI2",
+                            "abbreviation": "SJ",
+                            "name": "Sharks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTk3Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzM3",
+                            "abbreviation": "UTA",
+                            "name": "Mammoth"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T01:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNTg4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTU4OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxOTgy",
+                            "abbreviation": "DET",
+                            "name": "Red Wings"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTU4OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwNjE",
+                            "abbreviation": "EDM",
+                            "name": "Oilers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T19:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwOTk3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDk5Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMDcz",
+                            "abbreviation": "PHI",
+                            "name": "Flyers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDk5OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMjk3",
+                            "abbreviation": "MIN",
+                            "name": "Wild"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMTUw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTE1MQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzgw",
+                            "abbreviation": "SEA",
+                            "name": "Kraken"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTE1MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkxMDA",
+                            "abbreviation": "TOR",
+                            "name": "Maple Leafs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExOTIw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTkxNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzgw",
+                            "abbreviation": "SEA",
+                            "name": "Kraken"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTkyMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMDcz",
+                            "abbreviation": "PHI",
+                            "name": "Flyers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNjY0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTY2NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMzM3",
+                            "abbreviation": "UTA",
+                            "name": "Mammoth"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTY2NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxODE1",
+                            "abbreviation": "BOS",
+                            "name": "Bruins"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExOTYx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTk2Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkxMzY",
+                            "abbreviation": "CAR",
+                            "name": "Hurricanes"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTk2MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwNjM",
+                            "abbreviation": "VGK",
+                            "name": "Golden Knights"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExODQ3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTg1Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNzcw",
+                            "abbreviation": "MTL",
+                            "name": "Canadiens"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTg0Nw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMDI4",
+                            "abbreviation": "BUF",
+                            "name": "Sabres"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-20T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA5OTM2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTkzNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNjAz",
+                            "abbreviation": "CHI",
+                            "name": "Blackhawks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwOTkzNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyNDYy",
+                            "abbreviation": "VAN",
+                            "name": "Canucks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T00:30:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExOTk5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMjAwMA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwMjQ",
+                            "abbreviation": "WPG",
+                            "name": "Jets"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTk5OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxODU3",
+                            "abbreviation": "CGY",
+                            "name": "Flames"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T01:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwNzUw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDc1Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMTYz",
+                            "abbreviation": "NJ",
+                            "name": "Devils"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDc1MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwNjE",
+                            "abbreviation": "EDM",
+                            "name": "Oilers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMDcz",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTA3Mw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkwOTk",
+                            "abbreviation": "FLA",
+                            "name": "Panthers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTA3OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMDI4",
+                            "abbreviation": "BUF",
+                            "name": "Sabres"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwMDUw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDA1MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxOTgy",
+                            "abbreviation": "DET",
+                            "name": "Red Wings"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDA1Mw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyMTIw",
+                            "abbreviation": "TB",
+                            "name": "Lightning"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-17T23:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNTE4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTUyMg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyNDYy",
+                            "abbreviation": "VAN",
+                            "name": "Canucks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTUxOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTkxMzg",
+                            "abbreviation": "WSH",
+                            "name": "Capitals"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T16:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwOTU5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS80",
+                    "name": "NHL",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzQ"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDk1OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAyNDI2",
+                            "abbreviation": "SJ",
+                            "name": "Sharks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDk2MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vMTAxNjU4",
+                            "abbreviation": "PIT",
+                            "name": "Penguins"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T02:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NTYx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjU2Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjIzODI",
+                            "abbreviation": "Baylor",
+                            "name": "Bears"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjU2MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjUwNjg",
+                            "abbreviation": "TCU",
+                            "name": "Horned Frogs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MTkx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzE5MQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI4ODQ",
+                            "abbreviation": "TexA&M",
+                            "name": "Aggies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzE5Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIyMzY",
+                            "abbreviation": "ARK",
+                            "name": "Razorbacks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTAyNTc5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwMjU3OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjQwNjY",
+                            "abbreviation": "MIA-FL",
+                            "name": "Hurricanes"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwMjU4MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzE0Nzg",
+                            "abbreviation": "Lou",
+                            "name": "Cardinals"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-17T23:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTAzMzY5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwMzM3NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjUwNjc",
+                            "abbreviation": "UNC",
+                            "name": "Tar Heels"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwMzM2OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjM5NjM",
+                            "abbreviation": "Cal",
+                            "name": "Golden Bears"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T02:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3Mjg0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzI4NQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjQwNTg",
+                            "abbreviation": "ND",
+                            "name": "Fighting Irish"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzI4NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI5Mjk",
+                            "abbreviation": "USC",
+                            "name": "Trojans"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MTA2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzEwNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzI0NTE",
+                            "abbreviation": "USU",
+                            "name": "Aggies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzExMA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjIzNDM",
+                            "abbreviation": "SJSU",
+                            "name": "Spartans"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T01:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MDYw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODA2Mw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjc1MzU",
+                            "abbreviation": "BYU",
+                            "name": "Cougars"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODA2MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjM5MTY",
+                            "abbreviation": "UTAH",
+                            "name": "Utes"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2MzIy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjMyMw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE4MjE",
+                            "abbreviation": "CIN",
+                            "name": "Bearcats"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjMyMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAyNjI",
+                            "abbreviation": "OKST",
+                            "name": "Cowboys"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T00:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NjE4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjYxOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI5Nzc",
+                            "abbreviation": "BAMA",
+                            "name": "Crimson Tide"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjYyMw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMxMjg",
+                            "abbreviation": "Tenn",
+                            "name": "Volunteers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwNjUz",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDY1Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI5MzA",
+                            "abbreviation": "MoStU",
+                            "name": "Bears"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDY1Mw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTIxODU",
+                            "abbreviation": "NMSt",
+                            "name": "Aggies"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T01:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MTkx",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODE5Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMwNzU",
+                            "abbreviation": "LSU",
+                            "name": "Tigers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODE5MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzMzNjM",
+                            "abbreviation": "Vandy",
+                            "name": "Commodores"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MTAz",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODEwMw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjIzODE",
+                            "abbreviation": "Auburn",
+                            "name": "Tigers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODEwNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAyMjI",
+                            "abbreviation": "MIZZOU",
+                            "name": "Tigers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:45:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2OTU4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjk1OQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI4NDM",
+                            "abbreviation": "NW",
+                            "name": "Wildcats"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjk1OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMyMjM",
+                            "abbreviation": "PUR",
+                            "name": "Boilermakers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2OTk4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjk5OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjc1Njg",
+                            "abbreviation": "Ari",
+                            "name": "Wildcats"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzAwMA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAzNzk",
+                            "abbreviation": "Hou",
+                            "name": "Cougars"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NTEy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjUxMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjAzNjU",
+                            "abbreviation": "Stan",
+                            "name": "Cardinal"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjUxNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI5Nzg",
+                            "abbreviation": "FSU",
+                            "name": "Seminoles"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-19T02:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MjM4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzIzOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjM4NzA",
+                            "abbreviation": "UW",
+                            "name": "Huskies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzI0MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI1MjY",
+                            "abbreviation": "Mich",
+                            "name": "Wolverines"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2Njk3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjY5Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIxNTM",
+                            "abbreviation": "Iowa",
+                            "name": "Hawkeyes"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjY5OA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI0ODU",
+                            "abbreviation": "PSU",
+                            "name": "Nittany Lions"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NzM4",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjczOA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE5MjA",
+                            "abbreviation": "Wisc",
+                            "name": "Badgers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjczOQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMxNzk",
+                            "abbreviation": "OhioSt",
+                            "name": "Buckeyes"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2ODI0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjgyNA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI3MTM",
+                            "abbreviation": "IU",
+                            "name": "Hoosiers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjgyNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjIwNDg",
+                            "abbreviation": "MSU",
+                            "name": "Spartans"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MjM2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODIzNg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjQwMDU",
+                            "abbreviation": "SCAR",
+                            "name": "Gamecocks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODIzNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIxOTU",
+                            "abbreviation": "Okla",
+                            "name": "Sooners"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:45:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExNDc0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTQ3NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzA0MTU",
+                            "abbreviation": "MiddTn",
+                            "name": "Blue Raiders"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTQ3Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzExNDk",
+                            "abbreviation": "Del",
+                            "name": "Fightin' Blue Hens"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-22T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwNzA0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDcwNQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjAzMjU",
+                            "abbreviation": "KU",
+                            "name": "Jayhawks"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDcwNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjA0MTI",
+                            "abbreviation": "KSU",
+                            "name": "Wildcats"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-25T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwODcy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDg3Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzE1ODA",
+                            "abbreviation": "FIU",
+                            "name": "Panthers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDg3NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjIwMDE",
+                            "abbreviation": "KennSt",
+                            "name": "Owls"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2MjI0",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjIyNA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE0NTU",
+                            "abbreviation": "UCF",
+                            "name": "Knights"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjIyOQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAwODg",
+                            "abbreviation": "WVU",
+                            "name": "Mountaineers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T17:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MDYy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzA2Mg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE4Njk",
+                            "abbreviation": "Minn",
+                            "name": "Golden Gophers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzA2NQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE4MjM",
+                            "abbreviation": "Neb",
+                            "name": "Cornhuskers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T00:00:00Z",
+                "status": "intragame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2Nzgw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjc4MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjE0OTY",
+                            "abbreviation": "Rut",
+                            "name": "Scarlet Knights"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjc4MA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAyNjE",
+                            "abbreviation": "ORE",
+                            "name": "Ducks"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T22:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MzQ2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzM0Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI2Nzc",
+                            "abbreviation": "UGa",
+                            "name": "Bulldogs"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzM0Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI2MjI",
+                            "abbreviation": "Miss",
+                            "name": "Rebels"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NDI3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjQyNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjM5MTQ",
+                            "abbreviation": "UCLA",
+                            "name": "Bruins"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjQyOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI3OTY",
+                            "abbreviation": "MD",
+                            "name": "Terrapins"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2OTEy",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjkxMg",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMwNzY",
+                            "abbreviation": "Clem",
+                            "name": "Tigers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjkxNA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzEyMDc",
+                            "abbreviation": "SMU",
+                            "name": "Mustangs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T19:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MDE3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODAxOA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIzNjY",
+                            "abbreviation": "TTU",
+                            "name": "Red Raiders"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODAxNw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIyNzc",
+                            "abbreviation": "ASU",
+                            "name": "Sun Devils"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T20:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2ODY3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjg2Nw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzIzMTg",
+                            "abbreviation": "UConn",
+                            "name": "Huskies"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjg3NA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzEwODY",
+                            "abbreviation": "BC",
+                            "name": "Eagles"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2Mjcw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjI3MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI1NzU",
+                            "abbreviation": "UVa",
+                            "name": "Cavaliers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjI3Mw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAzNDE",
+                            "abbreviation": "WSU",
+                            "name": "Cougars"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T22:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTExMzg5",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTM4OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzcxNTE",
+                            "abbreviation": "USA",
+                            "name": "Jaguars"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMTM5MQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI2MzA",
+                            "abbreviation": "GaSt",
+                            "name": "Panthers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-23T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTEwODI3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDgyOQ",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzI1OTY",
+                            "abbreviation": "LaTech",
+                            "name": "Bulldogs"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzExMDgyNw",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vOTIyNzk",
+                            "abbreviation": "WestKy",
+                            "name": "Hilltoppers"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-21T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2Mzgw",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjM4MA",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAzMDI",
+                            "abbreviation": "Duke",
+                            "name": "Blue Devils"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjM4NA",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI0MzM",
+                            "abbreviation": "GT",
+                            "name": "Yellow Jackets"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T16:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA4MTQ3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODE0Ng",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMwMzI",
+                            "abbreviation": "UK",
+                            "name": "Wildcats"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwODE1Mg",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMxNzg",
+                            "abbreviation": "Tex",
+                            "name": "Longhorns"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:00:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA2NDY2",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjQ2Ng",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzEyNTk",
+                            "abbreviation": "Pitt",
+                            "name": "Panthers"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNjQ2Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjMxMjU",
+                            "abbreviation": "Syr",
+                            "name": "Orange"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T23:30:00Z",
+                "status": "pregame"
+            },
+            {
+                "__typename": "Game",
+                "id": "Z2lkOi8vaHMzL0dhbWUvMTA3MTQ3",
+                "league": {
+                    "__typename": "League",
+                    "id": "Z2lkOi8vaHMzL0xlYWd1ZS82",
+                    "name": "NCAA",
+                    "sportId": "Z2lkOi8vaHMzL1Nwb3J0LzI"
+                },
+                "opponents": [
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzE0Nw",
+                        "designation": "home",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNzAxMjk",
+                            "abbreviation": "Fla",
+                            "name": "Gators"
+                        }
+                    },
+                    {
+                        "__typename": "Opponent",
+                        "id": "Z2lkOi8vaHMzL09wcG9uZW50LzEwNzE0OQ",
+                        "designation": "away",
+                        "team": {
+                            "__typename": "Team",
+                            "id": "Z2lkOi8vaHMzL1RlYW0vNjI3NTQ",
+                            "abbreviation": "MSST",
+                            "name": "Bulldogs"
+                        }
+                    }
+                ],
+                "scheduledAt": "2025-10-18T20:15:00Z",
+                "status": "pregame"
+            }
+        ]
+    }
+}

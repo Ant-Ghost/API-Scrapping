@@ -10,193 +10,225 @@
         "id": "108504:75:0",
         "market": "Rushing tds",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 6.4
+        "selected_line": 0.5,
+        "decimal_odds": 4.28
       },
       {
         "id": "108504:75:0",
         "market": "Rushing tds",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.19
+        "selected_line": 0.5,
+        "decimal_odds": 1.0
       },
       {
         "id": "108504:71:0",
         "market": "Passing tds",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.44
+        "selected_line": 1.5,
+        "decimal_odds": 2.11
       },
       {
         "id": "108504:71:0",
         "market": "Passing tds",
         "player_name": "Trevor Lawrence",
+        "selected_line": 1.5,
+        "decimal_odds": 1.49
+      },
+      {
+        "id": "108504:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Trevor Lawrence",
+        "selected_line": 246.5,
+        "decimal_odds": 1.78
+      },
+      {
+        "id": "108504:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Trevor Lawrence",
+        "selected_line": 246.5,
+        "decimal_odds": 1.79
+      },
+      {
+        "id": "108504:74:0",
+        "market": "Rushing yards",
+        "player_name": "Trevor Lawrence",
+        "selected_line": 16.5,
+        "decimal_odds": 1.67
+      },
+      {
+        "id": "108504:74:0",
+        "market": "Rushing yards",
+        "player_name": "Trevor Lawrence",
+        "selected_line": 16.5,
         "decimal_odds": 1.69
       },
       {
-        "id": "108504:95:0",
-        "market": "Passing rushing yards",
+        "id": "108504:86:0",
+        "market": "Longest rush",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108504:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108504:74:0",
-        "market": "Rushing yards",
-        "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108504:74:0",
-        "market": "Rushing yards",
-        "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
+        "selected_line": 9.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "108504:86:0",
         "market": "Longest rush",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.96
-      },
-      {
-        "id": "108504:86:0",
-        "market": "Longest rush",
-        "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.04
+        "selected_line": 9.5,
+        "decimal_odds": 1.84
       },
       {
         "id": "108504:84:0",
         "market": "Anytime td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 6.37
+        "selected_line": 0.5,
+        "decimal_odds": 4.52
       },
       {
         "id": "108504:84:0",
         "market": "Anytime td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.19
+        "selected_line": 0.5,
+        "decimal_odds": 1.06
       },
       {
         "id": "108504:82:0",
         "market": "First td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 31.95
+        "selected_line": 0.5,
+        "decimal_odds": 8.21
       },
       {
         "id": "108504:82:0",
         "market": "First td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.03
+        "selected_line": 0.5,
+        "decimal_odds": 0.93
       },
       {
         "id": "108504:70:0",
         "market": "Passing yards",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
+        "selected_line": 226.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "108504:70:0",
         "market": "Passing yards",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.0
+        "selected_line": 226.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "108504:83:0",
         "market": "Last td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 28.57
+        "selected_line": 0.5,
+        "decimal_odds": 7.68
       },
       {
         "id": "108504:83:0",
         "market": "Last td scorer",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.04
+        "selected_line": 0.5,
+        "decimal_odds": 0.86
       },
       {
         "id": "108504:97:0",
         "market": "Lost fumbles",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 4.57
+        "selected_line": 0.5,
+        "decimal_odds": 4.6
       },
       {
         "id": "108504:97:0",
         "market": "Lost fumbles",
         "player_name": "Trevor Lawrence",
+        "selected_line": 0.5,
         "decimal_odds": 1.28
       },
       {
         "id": "108504:77:0",
         "market": "Passing attempts",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.01
+        "selected_line": 34.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "108504:77:0",
         "market": "Passing attempts",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.99
+        "selected_line": 34.5,
+        "decimal_odds": 1.67
       },
       {
         "id": "108504:85:0",
         "market": "Longest completion",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.05
+        "selected_line": 34.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "108504:85:0",
         "market": "Longest completion",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.95
+        "selected_line": 34.5,
+        "decimal_odds": 1.75
       },
       {
         "id": "108504:81:0",
         "market": "Passing completions",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.01
+        "selected_line": 21.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "108504:81:0",
         "market": "Passing completions",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.99
+        "selected_line": 21.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "108504:76:0",
         "market": "Interceptions thrown",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.8
+        "selected_line": 0.5,
+        "decimal_odds": 1.54
       },
       {
         "id": "108504:76:0",
         "market": "Interceptions thrown",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.26
+        "selected_line": 0.5,
+        "decimal_odds": 1.9
       },
       {
         "id": "108504:96:0",
         "market": "Fumbles",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.25
+        "selected_line": 0.5,
+        "decimal_odds": 1.91
       },
       {
         "id": "108504:96:0",
         "market": "Fumbles",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.8
+        "selected_line": 0.5,
+        "decimal_odds": 1.53
       },
       {
         "id": "108504:78:0",
         "market": "Rushing attempts",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 1.95
+        "selected_line": 3.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "108504:78:0",
         "market": "Rushing attempts",
         "player_name": "Trevor Lawrence",
-        "decimal_odds": 2.05
+        "selected_line": 3.5,
+        "decimal_odds": 1.71
       }
     ]
   },
@@ -211,193 +243,225 @@
         "id": "108561:75:0",
         "market": "Rushing tds",
         "player_name": "Justin Herbert",
-        "decimal_odds": 6.52
+        "selected_line": 0.5,
+        "decimal_odds": 4.35
       },
       {
         "id": "108561:75:0",
         "market": "Rushing tds",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.18
+        "selected_line": 0.5,
+        "decimal_odds": 0.99
       },
       {
         "id": "108561:71:0",
         "market": "Passing tds",
         "player_name": "Justin Herbert",
+        "selected_line": 1.5,
+        "decimal_odds": 1.48
+      },
+      {
+        "id": "108561:71:0",
+        "market": "Passing tds",
+        "player_name": "Justin Herbert",
+        "selected_line": 1.5,
+        "decimal_odds": 2.13
+      },
+      {
+        "id": "108561:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Justin Herbert",
+        "selected_line": 281.5,
+        "decimal_odds": 1.78
+      },
+      {
+        "id": "108561:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Justin Herbert",
+        "selected_line": 281.5,
+        "decimal_odds": 1.8
+      },
+      {
+        "id": "108561:74:0",
+        "market": "Rushing yards",
+        "player_name": "Justin Herbert",
+        "selected_line": 14.5,
+        "decimal_odds": 1.67
+      },
+      {
+        "id": "108561:74:0",
+        "market": "Rushing yards",
+        "player_name": "Justin Herbert",
+        "selected_line": 14.5,
         "decimal_odds": 1.68
       },
       {
-        "id": "108561:71:0",
-        "market": "Passing tds",
+        "id": "108561:86:0",
+        "market": "Longest rush",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.47
-      },
-      {
-        "id": "108561:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "108561:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "108561:74:0",
-        "market": "Rushing yards",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "108561:74:0",
-        "market": "Rushing yards",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 2.01
+        "selected_line": 9.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "108561:86:0",
         "market": "Longest rush",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.98
-      },
-      {
-        "id": "108561:86:0",
-        "market": "Longest rush",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 2.02
+        "selected_line": 9.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "108561:84:0",
         "market": "Anytime td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 6.52
+        "selected_line": 0.5,
+        "decimal_odds": 4.6
       },
       {
         "id": "108561:84:0",
         "market": "Anytime td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.18
+        "selected_line": 0.5,
+        "decimal_odds": 1.06
       },
       {
         "id": "108561:82:0",
         "market": "First td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 37.04
+        "selected_line": 0.5,
+        "decimal_odds": 8.45
       },
       {
         "id": "108561:82:0",
         "market": "First td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.03
+        "selected_line": 0.5,
+        "decimal_odds": 0.92
       },
       {
         "id": "108561:70:0",
         "market": "Passing yards",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.01
+        "selected_line": 263.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "108561:70:0",
         "market": "Passing yards",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.99
+        "selected_line": 263.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "108561:83:0",
         "market": "Last td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 27.32
+        "selected_line": 0.5,
+        "decimal_odds": 7.61
       },
       {
         "id": "108561:83:0",
         "market": "Last td scorer",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.04
+        "selected_line": 0.5,
+        "decimal_odds": 0.86
       },
       {
         "id": "108561:97:0",
         "market": "Lost fumbles",
         "player_name": "Justin Herbert",
+        "selected_line": 0.5,
         "decimal_odds": 6.87
       },
       {
         "id": "108561:97:0",
         "market": "Lost fumbles",
         "player_name": "Justin Herbert",
+        "selected_line": 0.5,
         "decimal_odds": 1.17
       },
       {
         "id": "108561:77:0",
         "market": "Passing attempts",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.9
+        "selected_line": 34.5,
+        "decimal_odds": 1.61
       },
       {
         "id": "108561:77:0",
         "market": "Passing attempts",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.11
+        "selected_line": 34.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "108561:85:0",
         "market": "Longest completion",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.05
+        "selected_line": 36.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "108561:85:0",
         "market": "Longest completion",
         "player_name": "Justin Herbert",
+        "selected_line": 36.5,
+        "decimal_odds": 1.75
+      },
+      {
+        "id": "108561:81:0",
+        "market": "Passing completions",
+        "player_name": "Justin Herbert",
+        "selected_line": 24.5,
+        "decimal_odds": 1.61
+      },
+      {
+        "id": "108561:81:0",
+        "market": "Passing completions",
+        "player_name": "Justin Herbert",
+        "selected_line": 24.5,
+        "decimal_odds": 1.72
+      },
+      {
+        "id": "108561:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Justin Herbert",
+        "selected_line": 0.5,
         "decimal_odds": 1.95
       },
       {
-        "id": "108561:81:0",
-        "market": "Passing completions",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 1.93
-      },
-      {
-        "id": "108561:81:0",
-        "market": "Passing completions",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 2.07
-      },
-      {
         "id": "108561:76:0",
         "market": "Interceptions thrown",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.3
-      },
-      {
-        "id": "108561:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Justin Herbert",
-        "decimal_odds": 1.77
+        "selected_line": 0.5,
+        "decimal_odds": 1.51
       },
       {
         "id": "108561:96:0",
         "market": "Fumbles",
         "player_name": "Justin Herbert",
-        "decimal_odds": 3.13
+        "selected_line": 0.5,
+        "decimal_odds": 2.57
       },
       {
         "id": "108561:96:0",
         "market": "Fumbles",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.47
+        "selected_line": 0.5,
+        "decimal_odds": 1.25
       },
       {
         "id": "108561:78:0",
         "market": "Rushing attempts",
         "player_name": "Justin Herbert",
-        "decimal_odds": 2.07
+        "selected_line": 3.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "108561:78:0",
         "market": "Rushing attempts",
         "player_name": "Justin Herbert",
-        "decimal_odds": 1.94
+        "selected_line": 3.5,
+        "decimal_odds": 1.62
       }
     ]
   },
@@ -412,193 +476,225 @@
         "id": "109149:75:0",
         "market": "Rushing tds",
         "player_name": "Jared Goff",
-        "decimal_odds": 15.41
+        "selected_line": 0.5,
+        "decimal_odds": 6.77
       },
       {
         "id": "109149:75:0",
         "market": "Rushing tds",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.07
+        "selected_line": 0.5,
+        "decimal_odds": 0.89
       },
       {
         "id": "109149:71:0",
         "market": "Passing tds",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.59
+        "selected_line": 1.5,
+        "decimal_odds": 1.38
       },
       {
         "id": "109149:71:0",
         "market": "Passing tds",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.7
+        "selected_line": 1.5,
+        "decimal_odds": 2.35
       },
       {
         "id": "109149:95:0",
         "market": "Passing rushing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.01
+        "selected_line": 272.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "109149:95:0",
         "market": "Passing rushing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.99
+        "selected_line": 272.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "109149:74:0",
         "market": "Rushing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.83
+        "selected_line": 0.5,
+        "decimal_odds": 2.3
       },
       {
         "id": "109149:74:0",
         "market": "Rushing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.55
+        "selected_line": 0.5,
+        "decimal_odds": 1.31
       },
       {
         "id": "109149:86:0",
         "market": "Longest rush",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.46
+        "selected_line": 0.5,
+        "decimal_odds": 2.16
       },
       {
         "id": "109149:86:0",
         "market": "Longest rush",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.69
+        "selected_line": 0.5,
+        "decimal_odds": 1.52
       },
       {
         "id": "109149:84:0",
         "market": "Anytime td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 14.95
+        "selected_line": 0.5,
+        "decimal_odds": 7.0
       },
       {
         "id": "109149:84:0",
         "market": "Anytime td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.07
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "109149:82:0",
         "market": "First td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 86.21
+        "selected_line": 0.5,
+        "decimal_odds": 10.03
       },
       {
         "id": "109149:82:0",
         "market": "First td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.01
+        "selected_line": 0.5,
+        "decimal_odds": 0.91
       },
       {
         "id": "109149:70:0",
         "market": "Passing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.01
+        "selected_line": 270.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "109149:70:0",
         "market": "Passing yards",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.99
+        "selected_line": 270.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "109149:83:0",
         "market": "Last td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 93.46
+        "selected_line": 0.5,
+        "decimal_odds": 11.69
       },
       {
         "id": "109149:83:0",
         "market": "Last td scorer",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.01
+        "selected_line": 0.5,
+        "decimal_odds": 0.84
       },
       {
         "id": "109149:97:0",
         "market": "Lost fumbles",
         "player_name": "Jared Goff",
-        "decimal_odds": 6.94
+        "selected_line": 0.5,
+        "decimal_odds": 6.92
       },
       {
         "id": "109149:97:0",
         "market": "Lost fumbles",
         "player_name": "Jared Goff",
+        "selected_line": 0.5,
         "decimal_odds": 1.17
       },
       {
         "id": "109149:77:0",
         "market": "Passing attempts",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.07
+        "selected_line": 32.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "109149:77:0",
         "market": "Passing attempts",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.93
+        "selected_line": 32.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "109149:85:0",
         "market": "Longest completion",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.95
+        "selected_line": 36.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "109149:85:0",
         "market": "Longest completion",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.05
+        "selected_line": 36.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "109149:81:0",
         "market": "Passing completions",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.04
+        "selected_line": 23.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "109149:81:0",
         "market": "Passing completions",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.96
+        "selected_line": 23.5,
+        "decimal_odds": 1.65
       },
       {
         "id": "109149:76:0",
         "market": "Interceptions thrown",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.66
+        "selected_line": 0.5,
+        "decimal_odds": 2.15
       },
       {
         "id": "109149:76:0",
         "market": "Interceptions thrown",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.6
+        "selected_line": 0.5,
+        "decimal_odds": 1.4
       },
       {
         "id": "109149:96:0",
         "market": "Fumbles",
         "player_name": "Jared Goff",
-        "decimal_odds": 3.68
+        "selected_line": 0.5,
+        "decimal_odds": 2.94
       },
       {
         "id": "109149:96:0",
         "market": "Fumbles",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.37
+        "selected_line": 0.5,
+        "decimal_odds": 1.17
       },
       {
         "id": "109149:78:0",
         "market": "Rushing attempts",
         "player_name": "Jared Goff",
-        "decimal_odds": 2.11
+        "selected_line": 1.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "109149:78:0",
         "market": "Rushing attempts",
         "player_name": "Jared Goff",
-        "decimal_odds": 1.9
+        "selected_line": 1.5,
+        "decimal_odds": 1.59
       }
     ]
   },
@@ -613,193 +709,225 @@
         "id": "105977:75:0",
         "market": "Rushing tds",
         "player_name": "Carson Wentz",
-        "decimal_odds": 8.9
+        "selected_line": 0.5,
+        "decimal_odds": 5.09
       },
       {
         "id": "105977:75:0",
         "market": "Rushing tds",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.13
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "105977:71:0",
         "market": "Passing tds",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.19
+        "selected_line": 1.5,
+        "decimal_odds": 1.92
       },
       {
         "id": "105977:71:0",
         "market": "Passing tds",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.84
+        "selected_line": 1.5,
+        "decimal_odds": 1.61
       },
       {
         "id": "105977:95:0",
         "market": "Passing rushing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.0
+        "selected_line": 244.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "105977:95:0",
         "market": "Passing rushing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.0
+        "selected_line": 244.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "105977:74:0",
         "market": "Rushing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.96
+        "selected_line": 8.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "105977:74:0",
         "market": "Rushing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.04
+        "selected_line": 8.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "105977:86:0",
         "market": "Longest rush",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.98
+        "selected_line": 6.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "105977:86:0",
         "market": "Longest rush",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.02
+        "selected_line": 6.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "105977:84:0",
         "market": "Anytime td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 8.88
+        "selected_line": 0.5,
+        "decimal_odds": 5.36
       },
       {
         "id": "105977:84:0",
         "market": "Anytime td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.13
+        "selected_line": 0.5,
+        "decimal_odds": 1.01
       },
       {
         "id": "105977:82:0",
         "market": "First td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 45.25
+        "selected_line": 0.5,
+        "decimal_odds": 8.78
       },
       {
         "id": "105977:82:0",
         "market": "First td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.02
+        "selected_line": 0.5,
+        "decimal_odds": 0.92
       },
       {
         "id": "105977:70:0",
         "market": "Passing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.0
+        "selected_line": 232.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "105977:70:0",
         "market": "Passing yards",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.0
+        "selected_line": 232.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "105977:83:0",
         "market": "Last td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 42.92
+        "selected_line": 0.5,
+        "decimal_odds": 8.47
       },
       {
         "id": "105977:83:0",
         "market": "Last td scorer",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.02
+        "selected_line": 0.5,
+        "decimal_odds": 0.85
       },
       {
         "id": "105977:97:0",
         "market": "Lost fumbles",
         "player_name": "Carson Wentz",
-        "decimal_odds": 4.88
+        "selected_line": 0.5,
+        "decimal_odds": 4.84
       },
       {
         "id": "105977:97:0",
         "market": "Lost fumbles",
         "player_name": "Carson Wentz",
+        "selected_line": 0.5,
         "decimal_odds": 1.26
       },
       {
         "id": "105977:77:0",
         "market": "Passing attempts",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.07
+        "selected_line": 32.5,
+        "decimal_odds": 1.75
       },
       {
         "id": "105977:77:0",
         "market": "Passing attempts",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.93
+        "selected_line": 32.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "105977:85:0",
         "market": "Longest completion",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.99
+        "selected_line": 36.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "105977:85:0",
         "market": "Longest completion",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.01
+        "selected_line": 36.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "105977:81:0",
         "market": "Passing completions",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.86
+        "selected_line": 20.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "105977:81:0",
         "market": "Passing completions",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.16
+        "selected_line": 20.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "105977:76:0",
         "market": "Interceptions thrown",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.83
+        "selected_line": 0.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "105977:76:0",
         "market": "Interceptions thrown",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.21
+        "selected_line": 0.5,
+        "decimal_odds": 1.88
       },
       {
         "id": "105977:96:0",
         "market": "Fumbles",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.48
+        "selected_line": 0.5,
+        "decimal_odds": 2.09
       },
       {
         "id": "105977:96:0",
         "market": "Fumbles",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.67
+        "selected_line": 0.5,
+        "decimal_odds": 1.42
       },
       {
         "id": "105977:78:0",
         "market": "Rushing attempts",
         "player_name": "Carson Wentz",
-        "decimal_odds": 1.76
+        "selected_line": 2.5,
+        "decimal_odds": 1.48
       },
       {
         "id": "105977:78:0",
         "market": "Rushing attempts",
         "player_name": "Carson Wentz",
-        "decimal_odds": 2.31
+        "selected_line": 2.5,
+        "decimal_odds": 1.92
       }
     ]
   },
@@ -814,193 +942,225 @@
         "id": "110110:75:0",
         "market": "Rushing tds",
         "player_name": "Mac Jones",
-        "decimal_odds": 14.62
+        "selected_line": 0.5,
+        "decimal_odds": 6.38
       },
       {
         "id": "110110:75:0",
         "market": "Rushing tds",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.07
+        "selected_line": 0.5,
+        "decimal_odds": 0.9
       },
       {
         "id": "110110:71:0",
         "market": "Passing tds",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.87
+        "selected_line": 1.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "110110:71:0",
         "market": "Passing tds",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.15
-      },
-      {
-        "id": "110110:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Mac Jones",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "110110:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Mac Jones",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "110110:74:0",
-        "market": "Rushing yards",
-        "player_name": "Mac Jones",
-        "decimal_odds": 2.08
-      },
-      {
-        "id": "110110:74:0",
-        "market": "Rushing yards",
-        "player_name": "Mac Jones",
-        "decimal_odds": 1.92
-      },
-      {
-        "id": "110110:86:0",
-        "market": "Longest rush",
-        "player_name": "Mac Jones",
-        "decimal_odds": 2.15
-      },
-      {
-        "id": "110110:86:0",
-        "market": "Longest rush",
-        "player_name": "Mac Jones",
+        "selected_line": 1.5,
         "decimal_odds": 1.87
       },
       {
-        "id": "110110:84:0",
-        "market": "Anytime td scorer",
+        "id": "110110:95:0",
+        "market": "Passing rushing yards",
         "player_name": "Mac Jones",
-        "decimal_odds": 14.49
+        "selected_line": 261.5,
+        "decimal_odds": 1.8
+      },
+      {
+        "id": "110110:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Mac Jones",
+        "selected_line": 261.5,
+        "decimal_odds": 1.78
+      },
+      {
+        "id": "110110:74:0",
+        "market": "Rushing yards",
+        "player_name": "Mac Jones",
+        "selected_line": 6.5,
+        "decimal_odds": 1.75
+      },
+      {
+        "id": "110110:74:0",
+        "market": "Rushing yards",
+        "player_name": "Mac Jones",
+        "selected_line": 6.5,
+        "decimal_odds": 1.61
+      },
+      {
+        "id": "110110:86:0",
+        "market": "Longest rush",
+        "player_name": "Mac Jones",
+        "selected_line": 5.5,
+        "decimal_odds": 1.94
+      },
+      {
+        "id": "110110:86:0",
+        "market": "Longest rush",
+        "player_name": "Mac Jones",
+        "selected_line": 5.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "110110:84:0",
         "market": "Anytime td scorer",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.07
+        "selected_line": 0.5,
+        "decimal_odds": 6.67
+      },
+      {
+        "id": "110110:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Mac Jones",
+        "selected_line": 0.5,
+        "decimal_odds": 0.96
       },
       {
         "id": "110110:82:0",
         "market": "First td scorer",
         "player_name": "Mac Jones",
-        "decimal_odds": 69.93
+        "selected_line": 0.5,
+        "decimal_odds": 9.6
       },
       {
         "id": "110110:82:0",
         "market": "First td scorer",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.01
+        "selected_line": 0.5,
+        "decimal_odds": 0.91
       },
       {
         "id": "110110:70:0",
         "market": "Passing yards",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.99
+        "selected_line": 252.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "110110:70:0",
         "market": "Passing yards",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.01
+        "selected_line": 252.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "110110:83:0",
         "market": "Last td scorer",
         "player_name": "Mac Jones",
-        "decimal_odds": 75.19
+        "selected_line": 0.5,
+        "decimal_odds": 9.97
       },
       {
         "id": "110110:83:0",
         "market": "Last td scorer",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.01
+        "selected_line": 0.5,
+        "decimal_odds": 0.84
       },
       {
         "id": "110110:97:0",
         "market": "Lost fumbles",
         "player_name": "Mac Jones",
-        "decimal_odds": 7.58
+        "selected_line": 0.5,
+        "decimal_odds": 7.69
       },
       {
         "id": "110110:97:0",
         "market": "Lost fumbles",
         "player_name": "Mac Jones",
+        "selected_line": 0.5,
         "decimal_odds": 1.15
       },
       {
         "id": "110110:77:0",
         "market": "Passing attempts",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.1
+        "selected_line": 34.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "110110:77:0",
         "market": "Passing attempts",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.91
+        "selected_line": 34.5,
+        "decimal_odds": 1.61
       },
       {
         "id": "110110:85:0",
         "market": "Longest completion",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.96
+        "selected_line": 34.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "110110:85:0",
         "market": "Longest completion",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.05
+        "selected_line": 34.5,
+        "decimal_odds": 1.82
       },
       {
         "id": "110110:81:0",
         "market": "Passing completions",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.98
+        "selected_line": 23.5,
+        "decimal_odds": 1.67
       },
       {
         "id": "110110:81:0",
         "market": "Passing completions",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.03
+        "selected_line": 23.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "110110:76:0",
         "market": "Interceptions thrown",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.88
+        "selected_line": 0.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "110110:76:0",
         "market": "Interceptions thrown",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.14
+        "selected_line": 0.5,
+        "decimal_odds": 1.84
       },
       {
         "id": "110110:96:0",
         "market": "Fumbles",
         "player_name": "Mac Jones",
-        "decimal_odds": 3.25
+        "selected_line": 0.5,
+        "decimal_odds": 2.67
       },
       {
         "id": "110110:96:0",
         "market": "Fumbles",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.45
+        "selected_line": 0.5,
+        "decimal_odds": 1.23
       },
       {
         "id": "110110:78:0",
         "market": "Rushing attempts",
         "player_name": "Mac Jones",
-        "decimal_odds": 1.9
+        "selected_line": 2.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "110110:78:0",
         "market": "Rushing attempts",
         "player_name": "Mac Jones",
-        "decimal_odds": 2.12
+        "selected_line": 2.5,
+        "decimal_odds": 1.76
       }
     ]
   },
@@ -1015,193 +1175,225 @@
         "id": "109069:75:0",
         "market": "Rushing tds",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 5.04
+        "selected_line": 0.5,
+        "decimal_odds": 3.68
       },
       {
         "id": "109069:75:0",
         "market": "Rushing tds",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.25
+        "selected_line": 0.5,
+        "decimal_odds": 1.05
       },
       {
         "id": "109069:71:0",
         "market": "Passing tds",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.8
+        "selected_line": 2.5,
+        "decimal_odds": 2.4
       },
       {
         "id": "109069:71:0",
         "market": "Passing tds",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.56
+        "selected_line": 2.5,
+        "decimal_odds": 1.37
       },
       {
         "id": "109069:95:0",
         "market": "Passing rushing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.99
+        "selected_line": 288.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "109069:95:0",
         "market": "Passing rushing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.01
+        "selected_line": 288.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "109069:74:0",
         "market": "Rushing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.99
+        "selected_line": 19.5,
+        "decimal_odds": 1.67
       },
       {
         "id": "109069:74:0",
         "market": "Rushing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.01
+        "selected_line": 19.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "109069:86:0",
         "market": "Longest rush",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.89
+        "selected_line": 10.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "109069:86:0",
         "market": "Longest rush",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.12
+        "selected_line": 10.5,
+        "decimal_odds": 1.9
       },
       {
         "id": "109069:84:0",
         "market": "Anytime td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 5.0
+        "selected_line": 0.5,
+        "decimal_odds": 3.88
       },
       {
         "id": "109069:84:0",
         "market": "Anytime td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.25
+        "selected_line": 0.5,
+        "decimal_odds": 1.12
       },
       {
         "id": "109069:82:0",
         "market": "First td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 22.52
+        "selected_line": 0.5,
+        "decimal_odds": 7.56
       },
       {
         "id": "109069:82:0",
         "market": "First td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.94
       },
       {
         "id": "109069:70:0",
         "market": "Passing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.01
+        "selected_line": 265.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "109069:70:0",
         "market": "Passing yards",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.99
+        "selected_line": 265.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "109069:83:0",
         "market": "Last td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 21.79
+        "selected_line": 0.5,
+        "decimal_odds": 7.14
       },
       {
         "id": "109069:83:0",
         "market": "Last td scorer",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.87
       },
       {
         "id": "109069:97:0",
         "market": "Lost fumbles",
         "player_name": "Patrick Mahomes",
+        "selected_line": 0.5,
         "decimal_odds": 7.16
       },
       {
         "id": "109069:97:0",
         "market": "Lost fumbles",
         "player_name": "Patrick Mahomes",
+        "selected_line": 0.5,
         "decimal_odds": 1.16
       },
       {
         "id": "109069:77:0",
         "market": "Passing attempts",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.91
+        "selected_line": 34.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "109069:77:0",
         "market": "Passing attempts",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.09
+        "selected_line": 34.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "109069:85:0",
         "market": "Longest completion",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.04
+        "selected_line": 37.5,
+        "decimal_odds": 1.82
       },
       {
         "id": "109069:85:0",
         "market": "Longest completion",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.96
+        "selected_line": 37.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "109069:81:0",
         "market": "Passing completions",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.04
+        "selected_line": 24.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "109069:81:0",
         "market": "Passing completions",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.96
+        "selected_line": 24.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "109069:76:0",
         "market": "Interceptions thrown",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.36
+        "selected_line": 0.5,
+        "decimal_odds": 1.99
       },
       {
         "id": "109069:76:0",
         "market": "Interceptions thrown",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.74
+        "selected_line": 0.5,
+        "decimal_odds": 1.48
       },
       {
         "id": "109069:96:0",
         "market": "Fumbles",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.92
+        "selected_line": 0.5,
+        "decimal_odds": 2.41
       },
       {
         "id": "109069:96:0",
         "market": "Fumbles",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.52
+        "selected_line": 0.5,
+        "decimal_odds": 1.3
       },
       {
         "id": "109069:78:0",
         "market": "Rushing attempts",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 1.86
+        "selected_line": 4.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "109069:78:0",
         "market": "Rushing attempts",
         "player_name": "Patrick Mahomes",
-        "decimal_odds": 2.17
+        "selected_line": 4.5,
+        "decimal_odds": 1.81
       }
     ]
   },
@@ -1216,193 +1408,225 @@
         "id": "110254:75:0",
         "market": "Rushing tds",
         "player_name": "Dak Prescott",
-        "decimal_odds": 6.84
+        "selected_line": 0.5,
+        "decimal_odds": 4.47
       },
       {
         "id": "110254:75:0",
         "market": "Rushing tds",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.17
+        "selected_line": 0.5,
+        "decimal_odds": 0.99
       },
       {
         "id": "110254:71:0",
         "market": "Passing tds",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.57
+        "selected_line": 1.5,
+        "decimal_odds": 1.38
       },
       {
         "id": "110254:71:0",
         "market": "Passing tds",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.75
+        "selected_line": 1.5,
+        "decimal_odds": 2.36
       },
       {
         "id": "110254:95:0",
         "market": "Passing rushing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.0
+        "selected_line": 278.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "110254:95:0",
         "market": "Passing rushing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.0
+        "selected_line": 278.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "110254:74:0",
         "market": "Rushing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.93
+        "selected_line": 3.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "110254:74:0",
         "market": "Rushing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.07
+        "selected_line": 3.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "110254:86:0",
         "market": "Longest rush",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.08
+        "selected_line": 4.5,
+        "decimal_odds": 1.86
       },
       {
         "id": "110254:86:0",
         "market": "Longest rush",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.93
+        "selected_line": 4.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "110254:84:0",
         "market": "Anytime td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 6.8
+        "selected_line": 0.5,
+        "decimal_odds": 4.72
       },
       {
         "id": "110254:84:0",
         "market": "Anytime td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.17
+        "selected_line": 0.5,
+        "decimal_odds": 1.05
       },
       {
         "id": "110254:82:0",
         "market": "First td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 38.61
+        "selected_line": 0.5,
+        "decimal_odds": 8.52
       },
       {
         "id": "110254:82:0",
         "market": "First td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.03
+        "selected_line": 0.5,
+        "decimal_odds": 0.92
       },
       {
         "id": "110254:70:0",
         "market": "Passing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.01
+        "selected_line": 271.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "110254:70:0",
         "market": "Passing yards",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.99
+        "selected_line": 271.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "110254:83:0",
         "market": "Last td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 41.67
+        "selected_line": 0.5,
+        "decimal_odds": 8.5
       },
       {
         "id": "110254:83:0",
         "market": "Last td scorer",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.02
+        "selected_line": 0.5,
+        "decimal_odds": 0.85
       },
       {
         "id": "110254:97:0",
         "market": "Lost fumbles",
         "player_name": "Dak Prescott",
+        "selected_line": 0.5,
         "decimal_odds": 7.03
       },
       {
         "id": "110254:97:0",
         "market": "Lost fumbles",
         "player_name": "Dak Prescott",
+        "selected_line": 0.5,
         "decimal_odds": 1.17
       },
       {
         "id": "110254:77:0",
         "market": "Passing attempts",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.99
+        "selected_line": 35.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "110254:77:0",
         "market": "Passing attempts",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.01
+        "selected_line": 35.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "110254:85:0",
         "market": "Longest completion",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.98
+        "selected_line": 37.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "110254:85:0",
         "market": "Longest completion",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.02
+        "selected_line": 37.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "110254:81:0",
         "market": "Passing completions",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.02
+        "selected_line": 24.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "110254:81:0",
         "market": "Passing completions",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.98
+        "selected_line": 24.5,
+        "decimal_odds": 1.65
       },
       {
         "id": "110254:76:0",
         "market": "Interceptions thrown",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.94
+        "selected_line": 0.5,
+        "decimal_odds": 1.65
       },
       {
         "id": "110254:76:0",
         "market": "Interceptions thrown",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.07
+        "selected_line": 0.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "110254:96:0",
         "market": "Fumbles",
         "player_name": "Dak Prescott",
-        "decimal_odds": 3.36
+        "selected_line": 0.5,
+        "decimal_odds": 2.73
       },
       {
         "id": "110254:96:0",
         "market": "Fumbles",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.42
+        "selected_line": 0.5,
+        "decimal_odds": 1.21
       },
       {
         "id": "110254:78:0",
         "market": "Rushing attempts",
         "player_name": "Dak Prescott",
-        "decimal_odds": 1.63
+        "selected_line": 1.5,
+        "decimal_odds": 1.37
       },
       {
         "id": "110254:78:0",
         "market": "Rushing attempts",
         "player_name": "Dak Prescott",
-        "decimal_odds": 2.6
+        "selected_line": 1.5,
+        "decimal_odds": 2.14
       }
     ]
   },
@@ -1417,193 +1641,225 @@
         "id": "108355:75:0",
         "market": "Rushing tds",
         "player_name": "Bo Nix",
-        "decimal_odds": 4.31
+        "selected_line": 0.5,
+        "decimal_odds": 3.28
       },
       {
         "id": "108355:75:0",
         "market": "Rushing tds",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.3
+        "selected_line": 0.5,
+        "decimal_odds": 1.1
       },
       {
         "id": "108355:71:0",
         "market": "Passing tds",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.29
+        "selected_line": 1.5,
+        "decimal_odds": 1.99
       },
       {
         "id": "108355:71:0",
         "market": "Passing tds",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.77
+        "selected_line": 1.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "108355:95:0",
         "market": "Passing rushing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.99
+        "selected_line": 247.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "108355:95:0",
         "market": "Passing rushing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.01
+        "selected_line": 247.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "108355:74:0",
         "market": "Rushing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.99
+        "selected_line": 19.5,
+        "decimal_odds": 1.67
       },
       {
         "id": "108355:74:0",
         "market": "Rushing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.01
+        "selected_line": 19.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "108355:86:0",
         "market": "Longest rush",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.94
+        "selected_line": 10.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "108355:86:0",
         "market": "Longest rush",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.07
+        "selected_line": 10.5,
+        "decimal_odds": 1.85
       },
       {
         "id": "108355:84:0",
         "market": "Anytime td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 4.29
+        "selected_line": 0.5,
+        "decimal_odds": 3.47
       },
       {
         "id": "108355:84:0",
         "market": "Anytime td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.3
+        "selected_line": 0.5,
+        "decimal_odds": 1.16
       },
       {
         "id": "108355:82:0",
         "market": "First td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 17.54
+        "selected_line": 0.5,
+        "decimal_odds": 7.06
       },
       {
         "id": "108355:82:0",
         "market": "First td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.06
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "108355:70:0",
         "market": "Passing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.99
+        "selected_line": 223.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "108355:70:0",
         "market": "Passing yards",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.01
+        "selected_line": 223.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "108355:83:0",
         "market": "Last td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 15.72
+        "selected_line": 0.5,
+        "decimal_odds": 6.44
       },
       {
         "id": "108355:83:0",
         "market": "Last td scorer",
         "player_name": "Bo Nix",
-        "decimal_odds": 1.07
+        "selected_line": 0.5,
+        "decimal_odds": 0.89
       },
       {
         "id": "108355:97:0",
         "market": "Lost fumbles",
         "player_name": "Bo Nix",
+        "selected_line": 0.5,
         "decimal_odds": 8.69
       },
       {
         "id": "108355:97:0",
         "market": "Lost fumbles",
         "player_name": "Bo Nix",
+        "selected_line": 0.5,
         "decimal_odds": 1.13
       },
       {
         "id": "108355:77:0",
         "market": "Passing attempts",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.05
+        "selected_line": 33.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "108355:77:0",
         "market": "Passing attempts",
         "player_name": "Bo Nix",
+        "selected_line": 33.5,
+        "decimal_odds": 1.65
+      },
+      {
+        "id": "108355:85:0",
+        "market": "Longest completion",
+        "player_name": "Bo Nix",
+        "selected_line": 34.5,
+        "decimal_odds": 1.75
+      },
+      {
+        "id": "108355:85:0",
+        "market": "Longest completion",
+        "player_name": "Bo Nix",
+        "selected_line": 34.5,
+        "decimal_odds": 1.83
+      },
+      {
+        "id": "108355:81:0",
+        "market": "Passing completions",
+        "player_name": "Bo Nix",
+        "selected_line": 21.5,
+        "decimal_odds": 1.56
+      },
+      {
+        "id": "108355:81:0",
+        "market": "Passing completions",
+        "player_name": "Bo Nix",
+        "selected_line": 21.5,
+        "decimal_odds": 1.78
+      },
+      {
+        "id": "108355:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Bo Nix",
+        "selected_line": 0.5,
+        "decimal_odds": 1.79
+      },
+      {
+        "id": "108355:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Bo Nix",
+        "selected_line": 0.5,
+        "decimal_odds": 1.62
+      },
+      {
+        "id": "108355:96:0",
+        "market": "Fumbles",
+        "player_name": "Bo Nix",
+        "selected_line": 0.5,
+        "decimal_odds": 2.89
+      },
+      {
+        "id": "108355:96:0",
+        "market": "Fumbles",
+        "player_name": "Bo Nix",
+        "selected_line": 0.5,
+        "decimal_odds": 1.18
+      },
+      {
+        "id": "108355:78:0",
+        "market": "Rushing attempts",
+        "player_name": "Bo Nix",
+        "selected_line": 5.5,
         "decimal_odds": 1.95
       },
       {
-        "id": "108355:85:0",
-        "market": "Longest completion",
-        "player_name": "Bo Nix",
-        "decimal_odds": 1.96
-      },
-      {
-        "id": "108355:85:0",
-        "market": "Longest completion",
-        "player_name": "Bo Nix",
-        "decimal_odds": 2.04
-      },
-      {
-        "id": "108355:81:0",
-        "market": "Passing completions",
-        "player_name": "Bo Nix",
-        "decimal_odds": 1.87
-      },
-      {
-        "id": "108355:81:0",
-        "market": "Passing completions",
-        "player_name": "Bo Nix",
-        "decimal_odds": 2.14
-      },
-      {
-        "id": "108355:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Bo Nix",
-        "decimal_odds": 2.11
-      },
-      {
-        "id": "108355:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Bo Nix",
-        "decimal_odds": 1.9
-      },
-      {
-        "id": "108355:96:0",
-        "market": "Fumbles",
-        "player_name": "Bo Nix",
-        "decimal_odds": 3.6
-      },
-      {
-        "id": "108355:96:0",
-        "market": "Fumbles",
-        "player_name": "Bo Nix",
-        "decimal_odds": 1.38
-      },
-      {
         "id": "108355:78:0",
         "market": "Rushing attempts",
         "player_name": "Bo Nix",
-        "decimal_odds": 2.35
-      },
-      {
-        "id": "108355:78:0",
-        "market": "Rushing attempts",
-        "player_name": "Bo Nix",
-        "decimal_odds": 1.74
+        "selected_line": 5.5,
+        "decimal_odds": 1.46
       }
     ]
   },
@@ -1618,193 +1874,225 @@
         "id": "108644:75:0",
         "market": "Rushing tds",
         "player_name": "Sam Darnold",
-        "decimal_odds": 9.25
+        "selected_line": 0.5,
+        "decimal_odds": 5.39
       },
       {
         "id": "108644:75:0",
         "market": "Rushing tds",
         "player_name": "Sam Darnold",
-        "decimal_odds": 1.12
+        "selected_line": 0.5,
+        "decimal_odds": 0.94
       },
       {
         "id": "108644:71:0",
         "market": "Passing tds",
         "player_name": "Sam Darnold",
-        "decimal_odds": 2.32
+        "selected_line": 1.5,
+        "decimal_odds": 1.95
       },
       {
         "id": "108644:71:0",
         "market": "Passing tds",
         "player_name": "Sam Darnold",
+        "selected_line": 1.5,
+        "decimal_odds": 1.58
+      },
+      {
+        "id": "108644:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 226.5,
+        "decimal_odds": 1.79
+      },
+      {
+        "id": "108644:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 226.5,
+        "decimal_odds": 1.78
+      },
+      {
+        "id": "108644:74:0",
+        "market": "Rushing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 3.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "108644:74:0",
+        "market": "Rushing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 3.5,
+        "decimal_odds": 1.66
+      },
+      {
+        "id": "108644:86:0",
+        "market": "Longest rush",
+        "player_name": "Sam Darnold",
+        "selected_line": 3.5,
         "decimal_odds": 1.76
       },
       {
-        "id": "108644:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108644:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108644:74:0",
-        "market": "Rushing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.98
-      },
-      {
-        "id": "108644:74:0",
-        "market": "Rushing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.02
-      },
-      {
         "id": "108644:86:0",
         "market": "Longest rush",
         "player_name": "Sam Darnold",
-        "decimal_odds": 2.11
-      },
-      {
-        "id": "108644:86:0",
-        "market": "Longest rush",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.9
-      },
-      {
-        "id": "108644:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 9.17
-      },
-      {
-        "id": "108644:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.12
-      },
-      {
-        "id": "108644:82:0",
-        "market": "First td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 41.84
-      },
-      {
-        "id": "108644:82:0",
-        "market": "First td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.02
-      },
-      {
-        "id": "108644:70:0",
-        "market": "Passing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108644:70:0",
-        "market": "Passing yards",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "108644:83:0",
-        "market": "Last td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 37.59
-      },
-      {
-        "id": "108644:83:0",
-        "market": "Last td scorer",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.03
-      },
-      {
-        "id": "108644:97:0",
-        "market": "Lost fumbles",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 4.92
-      },
-      {
-        "id": "108644:97:0",
-        "market": "Lost fumbles",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.26
-      },
-      {
-        "id": "108644:77:0",
-        "market": "Passing attempts",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.07
-      },
-      {
-        "id": "108644:77:0",
-        "market": "Passing attempts",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.93
-      },
-      {
-        "id": "108644:85:0",
-        "market": "Longest completion",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.94
-      },
-      {
-        "id": "108644:85:0",
-        "market": "Longest completion",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.06
-      },
-      {
-        "id": "108644:81:0",
-        "market": "Passing completions",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.02
-      },
-      {
-        "id": "108644:81:0",
-        "market": "Passing completions",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.98
-      },
-      {
-        "id": "108644:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.94
-      },
-      {
-        "id": "108644:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.06
-      },
-      {
-        "id": "108644:96:0",
-        "market": "Fumbles",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 2.65
-      },
-      {
-        "id": "108644:96:0",
-        "market": "Fumbles",
-        "player_name": "Sam Darnold",
-        "decimal_odds": 1.61
-      },
-      {
-        "id": "108644:78:0",
-        "market": "Rushing attempts",
-        "player_name": "Sam Darnold",
+        "selected_line": 3.5,
         "decimal_odds": 1.81
       },
       {
+        "id": "108644:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 5.66
+      },
+      {
+        "id": "108644:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 1.0
+      },
+      {
+        "id": "108644:82:0",
+        "market": "First td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 8.84
+      },
+      {
+        "id": "108644:82:0",
+        "market": "First td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 0.92
+      },
+      {
+        "id": "108644:70:0",
+        "market": "Passing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 219.5,
+        "decimal_odds": 1.79
+      },
+      {
+        "id": "108644:70:0",
+        "market": "Passing yards",
+        "player_name": "Sam Darnold",
+        "selected_line": 219.5,
+        "decimal_odds": 1.79
+      },
+      {
+        "id": "108644:83:0",
+        "market": "Last td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 8.6
+      },
+      {
+        "id": "108644:83:0",
+        "market": "Last td scorer",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 0.85
+      },
+      {
+        "id": "108644:97:0",
+        "market": "Lost fumbles",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 5.27
+      },
+      {
+        "id": "108644:97:0",
+        "market": "Lost fumbles",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 1.23
+      },
+      {
+        "id": "108644:77:0",
+        "market": "Passing attempts",
+        "player_name": "Sam Darnold",
+        "selected_line": 29.5,
+        "decimal_odds": 1.73
+      },
+      {
+        "id": "108644:77:0",
+        "market": "Passing attempts",
+        "player_name": "Sam Darnold",
+        "selected_line": 29.5,
+        "decimal_odds": 1.65
+      },
+      {
+        "id": "108644:85:0",
+        "market": "Longest completion",
+        "player_name": "Sam Darnold",
+        "selected_line": 35.5,
+        "decimal_odds": 1.77
+      },
+      {
+        "id": "108644:85:0",
+        "market": "Longest completion",
+        "player_name": "Sam Darnold",
+        "selected_line": 35.5,
+        "decimal_odds": 1.8
+      },
+      {
+        "id": "108644:81:0",
+        "market": "Passing completions",
+        "player_name": "Sam Darnold",
+        "selected_line": 19.5,
+        "decimal_odds": 1.74
+      },
+      {
+        "id": "108644:81:0",
+        "market": "Passing completions",
+        "player_name": "Sam Darnold",
+        "selected_line": 19.5,
+        "decimal_odds": 1.6
+      },
+      {
+        "id": "108644:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 1.77
+      },
+      {
+        "id": "108644:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 1.65
+      },
+      {
+        "id": "108644:96:0",
+        "market": "Fumbles",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 2.28
+      },
+      {
+        "id": "108644:96:0",
+        "market": "Fumbles",
+        "player_name": "Sam Darnold",
+        "selected_line": 0.5,
+        "decimal_odds": 1.34
+      },
+      {
         "id": "108644:78:0",
         "market": "Rushing attempts",
         "player_name": "Sam Darnold",
-        "decimal_odds": 2.24
+        "selected_line": 1.5,
+        "decimal_odds": 1.47
+      },
+      {
+        "id": "108644:78:0",
+        "market": "Rushing attempts",
+        "player_name": "Sam Darnold",
+        "selected_line": 1.5,
+        "decimal_odds": 1.94
       }
     ]
   },
@@ -1819,193 +2107,225 @@
         "id": "110236:75:0",
         "market": "Rushing tds",
         "player_name": "Caleb Williams",
-        "decimal_odds": 4.41
+        "selected_line": 0.5,
+        "decimal_odds": 3.34
       },
       {
         "id": "110236:75:0",
         "market": "Rushing tds",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.29
+        "selected_line": 0.5,
+        "decimal_odds": 1.09
       },
       {
         "id": "110236:71:0",
         "market": "Passing tds",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.07
+        "selected_line": 1.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "110236:71:0",
         "market": "Passing tds",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.94
+        "selected_line": 1.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "110236:95:0",
         "market": "Passing rushing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.99
+        "selected_line": 254.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "110236:95:0",
         "market": "Passing rushing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.01
+        "selected_line": 254.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "110236:74:0",
         "market": "Rushing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.03
+        "selected_line": 24.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "110236:74:0",
         "market": "Rushing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.98
+        "selected_line": 24.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "110236:86:0",
         "market": "Longest rush",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.13
+        "selected_line": 11.5,
+        "decimal_odds": 1.9
       },
       {
         "id": "110236:86:0",
         "market": "Longest rush",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.89
+        "selected_line": 11.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "110236:84:0",
         "market": "Anytime td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 4.4
+        "selected_line": 0.5,
+        "decimal_odds": 3.54
       },
       {
         "id": "110236:84:0",
         "market": "Anytime td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.29
+        "selected_line": 0.5,
+        "decimal_odds": 1.16
       },
       {
         "id": "110236:82:0",
         "market": "First td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 20.37
+        "selected_line": 0.5,
+        "decimal_odds": 7.36
       },
       {
         "id": "110236:82:0",
         "market": "First td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "110236:70:0",
         "market": "Passing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.99
+        "selected_line": 226.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "110236:70:0",
         "market": "Passing yards",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.01
+        "selected_line": 226.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "110236:83:0",
         "market": "Last td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 19.88
+        "selected_line": 0.5,
+        "decimal_odds": 6.95
       },
       {
         "id": "110236:83:0",
         "market": "Last td scorer",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.88
       },
       {
         "id": "110236:97:0",
         "market": "Lost fumbles",
         "player_name": "Caleb Williams",
+        "selected_line": 0.5,
         "decimal_odds": 6.07
       },
       {
         "id": "110236:97:0",
         "market": "Lost fumbles",
         "player_name": "Caleb Williams",
+        "selected_line": 0.5,
         "decimal_odds": 1.2
       },
       {
         "id": "110236:77:0",
         "market": "Passing attempts",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.97
+        "selected_line": 31.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "110236:77:0",
         "market": "Passing attempts",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.03
+        "selected_line": 31.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "110236:85:0",
         "market": "Longest completion",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.99
+        "selected_line": 35.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "110236:85:0",
         "market": "Longest completion",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "110236:81:0",
-        "market": "Passing completions",
-        "player_name": "Caleb Williams",
-        "decimal_odds": 2.04
-      },
-      {
-        "id": "110236:81:0",
-        "market": "Passing completions",
-        "player_name": "Caleb Williams",
-        "decimal_odds": 1.96
-      },
-      {
-        "id": "110236:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Caleb Williams",
-        "decimal_odds": 2.24
-      },
-      {
-        "id": "110236:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Caleb Williams",
+        "selected_line": 35.5,
         "decimal_odds": 1.8
       },
       {
-        "id": "110236:96:0",
-        "market": "Fumbles",
+        "id": "110236:81:0",
+        "market": "Passing completions",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.47
+        "selected_line": 20.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "110236:81:0",
+        "market": "Passing completions",
+        "player_name": "Caleb Williams",
+        "selected_line": 20.5,
+        "decimal_odds": 1.64
+      },
+      {
+        "id": "110236:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Caleb Williams",
+        "selected_line": 0.5,
+        "decimal_odds": 1.9
+      },
+      {
+        "id": "110236:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Caleb Williams",
+        "selected_line": 0.5,
+        "decimal_odds": 1.54
       },
       {
         "id": "110236:96:0",
         "market": "Fumbles",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.68
+        "selected_line": 0.5,
+        "decimal_odds": 2.08
+      },
+      {
+        "id": "110236:96:0",
+        "market": "Fumbles",
+        "player_name": "Caleb Williams",
+        "selected_line": 0.5,
+        "decimal_odds": 1.43
       },
       {
         "id": "110236:78:0",
         "market": "Rushing attempts",
         "player_name": "Caleb Williams",
-        "decimal_odds": 2.22
+        "selected_line": 5.5,
+        "decimal_odds": 1.85
       },
       {
         "id": "110236:78:0",
         "market": "Rushing attempts",
         "player_name": "Caleb Williams",
-        "decimal_odds": 1.82
+        "selected_line": 5.5,
+        "decimal_odds": 1.52
       }
     ]
   },
@@ -2020,181 +2340,211 @@
         "id": "106560:78:0",
         "market": "Rushing attempts",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.79
+        "selected_line": 6.5,
+        "decimal_odds": 1.5
       },
       {
         "id": "106560:78:0",
         "market": "Rushing attempts",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.27
+        "selected_line": 6.5,
+        "decimal_odds": 1.89
       },
       {
         "id": "106560:86:0",
         "market": "Longest rush",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.97
+        "selected_line": 9.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106560:86:0",
         "market": "Longest rush",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.03
+        "selected_line": 9.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106560:82:0",
         "market": "First td scorer",
         "player_name": "Josh Hoover",
-        "decimal_odds": 20.79
+        "selected_line": 0.5,
+        "decimal_odds": 7.4
       },
       {
         "id": "106560:82:0",
         "market": "First td scorer",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "106560:85:0",
         "market": "Longest completion",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.06
+        "selected_line": 45.5,
+        "decimal_odds": 1.84
       },
       {
         "id": "106560:85:0",
         "market": "Longest completion",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.94
+        "selected_line": 45.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "106560:75:0",
         "market": "Rushing tds",
         "player_name": "Josh Hoover",
-        "decimal_odds": 3.22
+        "selected_line": 0.5,
+        "decimal_odds": 2.61
       },
       {
         "id": "106560:75:0",
         "market": "Rushing tds",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.45
+        "selected_line": 0.5,
+        "decimal_odds": 1.23
       },
       {
         "id": "106560:81:0",
         "market": "Passing completions",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.97
+        "selected_line": 24.5,
+        "decimal_odds": 1.57
       },
       {
         "id": "106560:81:0",
         "market": "Passing completions",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.03
+        "selected_line": 24.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "106560:97:0",
         "market": "Lost fumbles",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 20.58
       },
       {
         "id": "106560:97:0",
         "market": "Lost fumbles",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 1.05
       },
       {
         "id": "106560:96:0",
         "market": "Fumbles",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 9.34
       },
       {
         "id": "106560:96:0",
         "market": "Fumbles",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 1.12
       },
       {
         "id": "106560:95:0",
         "market": "Passing rushing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.99
+        "selected_line": 321.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106560:95:0",
         "market": "Passing rushing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.01
+        "selected_line": 321.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106560:76:0",
         "market": "Interceptions thrown",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.49
+        "selected_line": 0.5,
+        "decimal_odds": 1.21
       },
       {
         "id": "106560:76:0",
         "market": "Interceptions thrown",
         "player_name": "Josh Hoover",
-        "decimal_odds": 3.06
+        "selected_line": 0.5,
+        "decimal_odds": 2.39
       },
       {
         "id": "106560:74:0",
         "market": "Rushing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.03
+        "selected_line": 6.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "106560:74:0",
         "market": "Rushing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.97
+        "selected_line": 6.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106560:70:0",
         "market": "Passing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.01
+        "selected_line": 312.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106560:70:0",
         "market": "Passing yards",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.99
+        "selected_line": 312.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106560:83:0",
         "market": "Last td scorer",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 20.88
       },
       {
         "id": "106560:83:0",
         "market": "Last td scorer",
         "player_name": "Josh Hoover",
+        "selected_line": 0.5,
         "decimal_odds": 1.05
       },
       {
         "id": "106560:71:0",
         "market": "Passing tds",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.89
+        "selected_line": 2.5,
+        "decimal_odds": 1.55
       },
       {
         "id": "106560:71:0",
         "market": "Passing tds",
         "player_name": "Josh Hoover",
-        "decimal_odds": 2.12
+        "selected_line": 2.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "106560:84:0",
         "market": "Anytime td scorer",
         "player_name": "Josh Hoover",
-        "decimal_odds": 3.17
+        "selected_line": 0.5,
+        "decimal_odds": 2.56
       },
       {
         "id": "106560:84:0",
         "market": "Anytime td scorer",
         "player_name": "Josh Hoover",
-        "decimal_odds": 1.46
+        "selected_line": 0.5,
+        "decimal_odds": 1.23
       }
     ]
   },
@@ -2209,157 +2559,183 @@
         "id": "107203:78:0",
         "market": "Rushing attempts",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.18
+        "selected_line": 13.5,
+        "decimal_odds": 1.82
       },
       {
         "id": "107203:78:0",
         "market": "Rushing attempts",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.85
+        "selected_line": 13.5,
+        "decimal_odds": 1.55
       },
       {
         "id": "107203:86:0",
         "market": "Longest rush",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.97
+        "selected_line": 19.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "107203:86:0",
         "market": "Longest rush",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.03
+        "selected_line": 19.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "107203:85:0",
         "market": "Longest completion",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.98
-      },
-      {
-        "id": "107203:85:0",
-        "market": "Longest completion",
-        "player_name": "Taylen Green",
-        "decimal_odds": 2.02
-      },
-      {
-        "id": "107203:82:0",
-        "market": "First td scorer",
-        "player_name": "Taylen Green",
-        "decimal_odds": 11.49
-      },
-      {
-        "id": "107203:82:0",
-        "market": "First td scorer",
-        "player_name": "Taylen Green",
-        "decimal_odds": 1.1
-      },
-      {
-        "id": "107203:75:0",
-        "market": "Rushing tds",
-        "player_name": "Taylen Green",
-        "decimal_odds": 2.03
-      },
-      {
-        "id": "107203:75:0",
-        "market": "Rushing tds",
-        "player_name": "Taylen Green",
-        "decimal_odds": 1.97
-      },
-      {
-        "id": "107203:81:0",
-        "market": "Passing completions",
-        "player_name": "Taylen Green",
-        "decimal_odds": 2.14
-      },
-      {
-        "id": "107203:81:0",
-        "market": "Passing completions",
-        "player_name": "Taylen Green",
-        "decimal_odds": 1.87
-      },
-      {
-        "id": "107203:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Taylen Green",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "107203:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Taylen Green",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "107203:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Taylen Green",
+        "selected_line": 40.5,
         "decimal_odds": 1.77
       },
       {
+        "id": "107203:85:0",
+        "market": "Longest completion",
+        "player_name": "Taylen Green",
+        "selected_line": 40.5,
+        "decimal_odds": 1.8
+      },
+      {
+        "id": "107203:82:0",
+        "market": "First td scorer",
+        "player_name": "Taylen Green",
+        "selected_line": 0.5,
+        "decimal_odds": 6.11
+      },
+      {
+        "id": "107203:82:0",
+        "market": "First td scorer",
+        "player_name": "Taylen Green",
+        "selected_line": 0.5,
+        "decimal_odds": 0.99
+      },
+      {
+        "id": "107203:75:0",
+        "market": "Rushing tds",
+        "player_name": "Taylen Green",
+        "selected_line": 0.5,
+        "decimal_odds": 1.71
+      },
+      {
+        "id": "107203:75:0",
+        "market": "Rushing tds",
+        "player_name": "Taylen Green",
+        "selected_line": 0.5,
+        "decimal_odds": 1.66
+      },
+      {
+        "id": "107203:81:0",
+        "market": "Passing completions",
+        "player_name": "Taylen Green",
+        "selected_line": 18.5,
+        "decimal_odds": 1.71
+      },
+      {
+        "id": "107203:81:0",
+        "market": "Passing completions",
+        "player_name": "Taylen Green",
+        "selected_line": 18.5,
+        "decimal_odds": 1.5
+      },
+      {
+        "id": "107203:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Taylen Green",
+        "selected_line": 297.5,
+        "decimal_odds": 1.64
+      },
+      {
+        "id": "107203:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Taylen Green",
+        "selected_line": 297.5,
+        "decimal_odds": 1.64
+      },
+      {
         "id": "107203:76:0",
         "market": "Interceptions thrown",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.3
+        "selected_line": 0.5,
+        "decimal_odds": 1.43
+      },
+      {
+        "id": "107203:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Taylen Green",
+        "selected_line": 0.5,
+        "decimal_odds": 1.85
       },
       {
         "id": "107203:74:0",
         "market": "Rushing yards",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.0
+        "selected_line": 51.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "107203:74:0",
         "market": "Rushing yards",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.0
+        "selected_line": 51.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "107203:70:0",
         "market": "Passing yards",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.01
+        "selected_line": 239.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107203:70:0",
         "market": "Passing yards",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.99
+        "selected_line": 239.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "107203:83:0",
         "market": "Last td scorer",
         "player_name": "Taylen Green",
+        "selected_line": 0.5,
         "decimal_odds": 14.49
       },
       {
         "id": "107203:83:0",
         "market": "Last td scorer",
         "player_name": "Taylen Green",
+        "selected_line": 0.5,
         "decimal_odds": 1.07
       },
       {
         "id": "107203:71:0",
         "market": "Passing tds",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.05
+        "selected_line": 1.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "107203:71:0",
         "market": "Passing tds",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.95
+        "selected_line": 1.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "107203:84:0",
         "market": "Anytime td scorer",
         "player_name": "Taylen Green",
-        "decimal_odds": 2.02
+        "selected_line": 0.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107203:84:0",
         "market": "Anytime td scorer",
         "player_name": "Taylen Green",
-        "decimal_odds": 1.98
+        "selected_line": 0.5,
+        "decimal_odds": 1.66
       }
     ]
   },
@@ -2374,157 +2750,183 @@
         "id": "107301:78:0",
         "market": "Rushing attempts",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.48
+        "selected_line": 4.5,
+        "decimal_odds": 2.04
       },
       {
         "id": "107301:78:0",
         "market": "Rushing attempts",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.68
+        "selected_line": 4.5,
+        "decimal_odds": 1.42
       },
       {
         "id": "107301:86:0",
         "market": "Longest rush",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.91
+        "selected_line": 7.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "107301:86:0",
         "market": "Longest rush",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.1
+        "selected_line": 7.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "107301:82:0",
         "market": "First td scorer",
         "player_name": "CJ Carr",
-        "decimal_odds": 17.73
+        "selected_line": 0.5,
+        "decimal_odds": 7.08
       },
       {
         "id": "107301:82:0",
         "market": "First td scorer",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.06
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "107301:85:0",
         "market": "Longest completion",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.96
+        "selected_line": 44.5,
+        "decimal_odds": 1.75
       },
       {
         "id": "107301:85:0",
         "market": "Longest completion",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.04
+        "selected_line": 44.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "107301:75:0",
         "market": "Rushing tds",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.88
+        "selected_line": 0.5,
+        "decimal_odds": 2.38
       },
       {
         "id": "107301:75:0",
         "market": "Rushing tds",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.53
+        "selected_line": 0.5,
+        "decimal_odds": 1.29
       },
       {
         "id": "107301:81:0",
         "market": "Passing completions",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.02
+        "selected_line": 19.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "107301:81:0",
         "market": "Passing completions",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.98
+        "selected_line": 19.5,
+        "decimal_odds": 1.6
       },
       {
         "id": "107301:95:0",
         "market": "Passing rushing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.0
+        "selected_line": 275.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "107301:95:0",
         "market": "Passing rushing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.0
+        "selected_line": 275.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "107301:76:0",
         "market": "Interceptions thrown",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.76
+        "selected_line": 0.5,
+        "decimal_odds": 1.41
       },
       {
         "id": "107301:76:0",
         "market": "Interceptions thrown",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.32
+        "selected_line": 0.5,
+        "decimal_odds": 1.88
       },
       {
         "id": "107301:74:0",
         "market": "Rushing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.96
+        "selected_line": 4.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107301:74:0",
         "market": "Rushing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.04
+        "selected_line": 4.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "107301:70:0",
         "market": "Passing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.99
+        "selected_line": 267.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107301:70:0",
         "market": "Passing yards",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.01
+        "selected_line": 267.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "107301:83:0",
         "market": "Last td scorer",
         "player_name": "CJ Carr",
-        "decimal_odds": 21.1
+        "selected_line": 0.5,
+        "decimal_odds": 20.28
       },
       {
         "id": "107301:83:0",
         "market": "Last td scorer",
         "player_name": "CJ Carr",
+        "selected_line": 0.5,
         "decimal_odds": 1.05
       },
       {
         "id": "107301:71:0",
         "market": "Passing tds",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.57
+        "selected_line": 1.5,
+        "decimal_odds": 1.28
       },
       {
         "id": "107301:71:0",
         "market": "Passing tds",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.76
+        "selected_line": 1.5,
+        "decimal_odds": 2.22
       },
       {
         "id": "107301:84:0",
         "market": "Anytime td scorer",
         "player_name": "CJ Carr",
-        "decimal_odds": 2.84
+        "selected_line": 0.5,
+        "decimal_odds": 2.34
       },
       {
         "id": "107301:84:0",
         "market": "Anytime td scorer",
         "player_name": "CJ Carr",
-        "decimal_odds": 1.54
+        "selected_line": 0.5,
+        "decimal_odds": 1.29
       }
     ]
   },
@@ -2539,157 +2941,183 @@
         "id": "106631:78:0",
         "market": "Rushing attempts",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.22
+        "selected_line": 8.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "106631:78:0",
         "market": "Rushing attempts",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.82
+        "selected_line": 8.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "106631:86:0",
         "market": "Longest rush",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.94
+        "selected_line": 10.5,
+        "decimal_odds": 1.65
       },
       {
         "id": "106631:86:0",
         "market": "Longest rush",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.06
+        "selected_line": 10.5,
+        "decimal_odds": 1.67
       },
       {
         "id": "106631:82:0",
         "market": "First td scorer",
         "player_name": "Ty Simpson",
-        "decimal_odds": 18.48
+        "selected_line": 0.5,
+        "decimal_odds": 7.29
       },
       {
         "id": "106631:82:0",
         "market": "First td scorer",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.06
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "106631:85:0",
         "market": "Longest completion",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.01
+        "selected_line": 43.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "106631:85:0",
         "market": "Longest completion",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.99
+        "selected_line": 43.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "106631:75:0",
         "market": "Rushing tds",
         "player_name": "Ty Simpson",
-        "decimal_odds": 3.19
+        "selected_line": 0.5,
+        "decimal_odds": 2.67
       },
       {
         "id": "106631:75:0",
         "market": "Rushing tds",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.46
+        "selected_line": 0.5,
+        "decimal_odds": 1.21
       },
       {
         "id": "106631:81:0",
         "market": "Passing completions",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.94
+        "selected_line": 23.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106631:81:0",
         "market": "Passing completions",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.06
+        "selected_line": 23.5,
+        "decimal_odds": 1.56
       },
       {
         "id": "106631:95:0",
         "market": "Passing rushing yards",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.99
+        "selected_line": 313.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106631:95:0",
         "market": "Passing rushing yards",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.01
+        "selected_line": 313.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106631:76:0",
         "market": "Interceptions thrown",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.98
+        "selected_line": 0.5,
+        "decimal_odds": 1.57
       },
       {
         "id": "106631:76:0",
         "market": "Interceptions thrown",
         "player_name": "Ty Simpson",
-        "decimal_odds": 2.02
-      },
-      {
-        "id": "106631:74:0",
-        "market": "Rushing yards",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 2.03
-      },
-      {
-        "id": "106631:74:0",
-        "market": "Rushing yards",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 1.97
-      },
-      {
-        "id": "106631:70:0",
-        "market": "Passing yards",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106631:70:0",
-        "market": "Passing yards",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106631:83:0",
-        "market": "Last td scorer",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 18.52
-      },
-      {
-        "id": "106631:83:0",
-        "market": "Last td scorer",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 1.06
-      },
-      {
-        "id": "106631:71:0",
-        "market": "Passing tds",
-        "player_name": "Ty Simpson",
-        "decimal_odds": 2.51
-      },
-      {
-        "id": "106631:71:0",
-        "market": "Passing tds",
-        "player_name": "Ty Simpson",
+        "selected_line": 0.5,
         "decimal_odds": 1.66
       },
       {
-        "id": "106631:84:0",
-        "market": "Anytime td scorer",
+        "id": "106631:74:0",
+        "market": "Rushing yards",
         "player_name": "Ty Simpson",
-        "decimal_odds": 3.16
+        "selected_line": 9.5,
+        "decimal_odds": 1.69
+      },
+      {
+        "id": "106631:74:0",
+        "market": "Rushing yards",
+        "player_name": "Ty Simpson",
+        "selected_line": 9.5,
+        "decimal_odds": 1.75
+      },
+      {
+        "id": "106631:70:0",
+        "market": "Passing yards",
+        "player_name": "Ty Simpson",
+        "selected_line": 298.5,
+        "decimal_odds": 1.69
+      },
+      {
+        "id": "106631:70:0",
+        "market": "Passing yards",
+        "player_name": "Ty Simpson",
+        "selected_line": 298.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "106631:83:0",
+        "market": "Last td scorer",
+        "player_name": "Ty Simpson",
+        "selected_line": 0.5,
+        "decimal_odds": 19.01
+      },
+      {
+        "id": "106631:83:0",
+        "market": "Last td scorer",
+        "player_name": "Ty Simpson",
+        "selected_line": 0.5,
+        "decimal_odds": 1.06
+      },
+      {
+        "id": "106631:71:0",
+        "market": "Passing tds",
+        "player_name": "Ty Simpson",
+        "selected_line": 2.5,
+        "decimal_odds": 1.89
+      },
+      {
+        "id": "106631:71:0",
+        "market": "Passing tds",
+        "player_name": "Ty Simpson",
+        "selected_line": 2.5,
+        "decimal_odds": 1.44
       },
       {
         "id": "106631:84:0",
         "market": "Anytime td scorer",
         "player_name": "Ty Simpson",
-        "decimal_odds": 1.46
+        "selected_line": 0.5,
+        "decimal_odds": 2.64
+      },
+      {
+        "id": "106631:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Ty Simpson",
+        "selected_line": 0.5,
+        "decimal_odds": 1.21
       }
     ]
   },
@@ -2704,157 +3132,183 @@
         "id": "106522:78:0",
         "market": "Rushing attempts",
         "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.15
+        "selected_line": 4.5,
+        "decimal_odds": 1.79
       },
       {
         "id": "106522:78:0",
         "market": "Rushing attempts",
         "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.87
+        "selected_line": 4.5,
+        "decimal_odds": 1.57
       },
       {
         "id": "106522:86:0",
         "market": "Longest rush",
         "player_name": "Ben Gulbranson",
-        "decimal_odds": 3.89
+        "selected_line": 0.5,
+        "decimal_odds": 3.02
       },
       {
         "id": "106522:86:0",
         "market": "Longest rush",
         "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.35
-      },
-      {
-        "id": "106522:82:0",
-        "market": "First td scorer",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 61.35
-      },
-      {
-        "id": "106522:82:0",
-        "market": "First td scorer",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.02
-      },
-      {
-        "id": "106522:85:0",
-        "market": "Longest completion",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.03
-      },
-      {
-        "id": "106522:85:0",
-        "market": "Longest completion",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.97
-      },
-      {
-        "id": "106522:75:0",
-        "market": "Rushing tds",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 9.94
-      },
-      {
-        "id": "106522:75:0",
-        "market": "Rushing tds",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.11
-      },
-      {
-        "id": "106522:81:0",
-        "market": "Passing completions",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.85
-      },
-      {
-        "id": "106522:81:0",
-        "market": "Passing completions",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.17
-      },
-      {
-        "id": "106522:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "106522:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "106522:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.73
-      },
-      {
-        "id": "106522:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.37
-      },
-      {
-        "id": "106522:74:0",
-        "market": "Rushing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.98
-      },
-      {
-        "id": "106522:74:0",
-        "market": "Rushing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.02
-      },
-      {
-        "id": "106522:70:0",
-        "market": "Passing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "106522:70:0",
-        "market": "Passing yards",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "106522:83:0",
-        "market": "Last td scorer",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 63.69
-      },
-      {
-        "id": "106522:83:0",
-        "market": "Last td scorer",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.02
-      },
-      {
-        "id": "106522:71:0",
-        "market": "Passing tds",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 3.25
-      },
-      {
-        "id": "106522:71:0",
-        "market": "Passing tds",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 1.44
-      },
-      {
-        "id": "106522:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Ben Gulbranson",
-        "decimal_odds": 9.56
-      },
-      {
-        "id": "106522:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
         "decimal_odds": 1.12
+      },
+      {
+        "id": "106522:82:0",
+        "market": "First td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 9.37
+      },
+      {
+        "id": "106522:82:0",
+        "market": "First td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 0.91
+      },
+      {
+        "id": "106522:85:0",
+        "market": "Longest completion",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 36.5,
+        "decimal_odds": 1.81
+      },
+      {
+        "id": "106522:85:0",
+        "market": "Longest completion",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 36.5,
+        "decimal_odds": 1.77
+      },
+      {
+        "id": "106522:75:0",
+        "market": "Rushing tds",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 5.43
+      },
+      {
+        "id": "106522:75:0",
+        "market": "Rushing tds",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 0.94
+      },
+      {
+        "id": "106522:81:0",
+        "market": "Passing completions",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 20.5,
+        "decimal_odds": 1.49
+      },
+      {
+        "id": "106522:81:0",
+        "market": "Passing completions",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 20.5,
+        "decimal_odds": 1.72
+      },
+      {
+        "id": "106522:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 212.5,
+        "decimal_odds": 1.63
+      },
+      {
+        "id": "106522:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 212.5,
+        "decimal_odds": 1.64
+      },
+      {
+        "id": "106522:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 1.4
+      },
+      {
+        "id": "106522:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 1.9
+      },
+      {
+        "id": "106522:74:0",
+        "market": "Rushing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": -24.5,
+        "decimal_odds": 1.69
+      },
+      {
+        "id": "106522:74:0",
+        "market": "Rushing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": -24.5,
+        "decimal_odds": 1.75
+      },
+      {
+        "id": "106522:70:0",
+        "market": "Passing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 237.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "106522:70:0",
+        "market": "Passing yards",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 237.5,
+        "decimal_odds": 1.69
+      },
+      {
+        "id": "106522:83:0",
+        "market": "Last td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 70.92
+      },
+      {
+        "id": "106522:83:0",
+        "market": "Last td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 1.01
+      },
+      {
+        "id": "106522:71:0",
+        "market": "Passing tds",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 1.5,
+        "decimal_odds": 2.55
+      },
+      {
+        "id": "106522:71:0",
+        "market": "Passing tds",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 1.5,
+        "decimal_odds": 1.19
+      },
+      {
+        "id": "106522:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 5.32
+      },
+      {
+        "id": "106522:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Ben Gulbranson",
+        "selected_line": 0.5,
+        "decimal_odds": 0.94
       }
     ]
   },
@@ -2869,157 +3323,183 @@
         "id": "106816:78:0",
         "market": "Rushing attempts",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.06
+        "selected_line": 6.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "106816:78:0",
         "market": "Rushing attempts",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.94
+        "selected_line": 6.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106816:86:0",
         "market": "Longest rush",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.94
+        "selected_line": 14.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "106816:86:0",
         "market": "Longest rush",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.06
+        "selected_line": 14.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "106816:85:0",
         "market": "Longest completion",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.97
+        "selected_line": 46.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "106816:85:0",
         "market": "Longest completion",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.03
+        "selected_line": 46.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "106816:82:0",
         "market": "First td scorer",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 13.28
+        "selected_line": 0.5,
+        "decimal_odds": 6.45
       },
       {
         "id": "106816:82:0",
         "market": "First td scorer",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.08
+        "selected_line": 0.5,
+        "decimal_odds": 0.97
       },
       {
         "id": "106816:75:0",
         "market": "Rushing tds",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.76
+        "selected_line": 0.5,
+        "decimal_odds": 2.27
       },
       {
         "id": "106816:75:0",
         "market": "Rushing tds",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.57
+        "selected_line": 0.5,
+        "decimal_odds": 1.33
       },
       {
         "id": "106816:81:0",
         "market": "Passing completions",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.03
+        "selected_line": 19.5,
+        "decimal_odds": 1.61
       },
       {
         "id": "106816:81:0",
         "market": "Passing completions",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.97
+        "selected_line": 19.5,
+        "decimal_odds": 1.58
       },
       {
         "id": "106816:95:0",
         "market": "Passing rushing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.0
+        "selected_line": 296.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106816:95:0",
         "market": "Passing rushing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.0
+        "selected_line": 296.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106816:76:0",
         "market": "Interceptions thrown",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.14
+        "selected_line": 0.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "106816:76:0",
         "market": "Interceptions thrown",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.88
+        "selected_line": 0.5,
+        "decimal_odds": 1.52
       },
       {
         "id": "106816:74:0",
         "market": "Rushing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.97
+        "selected_line": 24.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106816:74:0",
         "market": "Rushing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.03
+        "selected_line": 24.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "106816:70:0",
         "market": "Passing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.01
+        "selected_line": 265.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106816:70:0",
         "market": "Passing yards",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.99
+        "selected_line": 265.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106816:83:0",
         "market": "Last td scorer",
         "player_name": "Fernando Mendoza",
+        "selected_line": 0.5,
         "decimal_odds": 14.84
       },
       {
         "id": "106816:83:0",
         "market": "Last td scorer",
         "player_name": "Fernando Mendoza",
+        "selected_line": 0.5,
         "decimal_odds": 1.07
       },
       {
         "id": "106816:71:0",
         "market": "Passing tds",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.07
+        "selected_line": 2.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106816:71:0",
         "market": "Passing tds",
         "player_name": "Fernando Mendoza",
-        "decimal_odds": 1.93
-      },
-      {
-        "id": "106816:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Fernando Mendoza",
-        "decimal_odds": 2.73
-      },
-      {
-        "id": "106816:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Fernando Mendoza",
+        "selected_line": 2.5,
         "decimal_odds": 1.58
+      },
+      {
+        "id": "106816:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Fernando Mendoza",
+        "selected_line": 0.5,
+        "decimal_odds": 2.24
+      },
+      {
+        "id": "106816:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Fernando Mendoza",
+        "selected_line": 0.5,
+        "decimal_odds": 1.33
       }
     ]
   },
@@ -3034,157 +3514,183 @@
         "id": "106789:78:0",
         "market": "Rushing attempts",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.83
+        "selected_line": 8.5,
+        "decimal_odds": 1.53
       },
       {
         "id": "106789:78:0",
         "market": "Rushing attempts",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.21
+        "selected_line": 8.5,
+        "decimal_odds": 1.84
       },
       {
         "id": "106789:86:0",
         "market": "Longest rush",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.97
+        "selected_line": 9.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "106789:86:0",
         "market": "Longest rush",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.03
+        "selected_line": 9.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106789:82:0",
         "market": "First td scorer",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 30.67
+        "selected_line": 0.5,
+        "decimal_odds": 8.12
       },
       {
         "id": "106789:82:0",
         "market": "First td scorer",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.03
+        "selected_line": 0.5,
+        "decimal_odds": 0.93
       },
       {
         "id": "106789:85:0",
         "market": "Longest completion",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.02
+        "selected_line": 41.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "106789:85:0",
         "market": "Longest completion",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.98
+        "selected_line": 41.5,
+        "decimal_odds": 1.77
       },
       {
         "id": "106789:75:0",
         "market": "Rushing tds",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 4.49
+        "selected_line": 0.5,
+        "decimal_odds": 3.41
       },
       {
         "id": "106789:75:0",
         "market": "Rushing tds",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.29
+        "selected_line": 0.5,
+        "decimal_odds": 1.09
       },
       {
         "id": "106789:81:0",
         "market": "Passing completions",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.87
+        "selected_line": 19.5,
+        "decimal_odds": 1.49
       },
       {
         "id": "106789:81:0",
         "market": "Passing completions",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.15
+        "selected_line": 19.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "106789:95:0",
         "market": "Passing rushing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": 256.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106789:95:0",
         "market": "Passing rushing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": 256.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106789:76:0",
         "market": "Interceptions thrown",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.53
+        "selected_line": 0.5,
+        "decimal_odds": 1.24
       },
       {
         "id": "106789:76:0",
         "market": "Interceptions thrown",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.88
+        "selected_line": 0.5,
+        "decimal_odds": 2.27
       },
       {
         "id": "106789:74:0",
         "market": "Rushing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": -6.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "106789:74:0",
         "market": "Rushing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": -6.5,
+        "decimal_odds": 1.72
       },
       {
         "id": "106789:70:0",
         "market": "Passing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": 259.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106789:70:0",
         "market": "Passing yards",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.0
+        "selected_line": 259.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106789:83:0",
         "market": "Last td scorer",
         "player_name": "Athan Kaliakmanis",
+        "selected_line": 0.5,
         "decimal_odds": 34.84
       },
       {
         "id": "106789:83:0",
         "market": "Last td scorer",
         "player_name": "Athan Kaliakmanis",
+        "selected_line": 0.5,
         "decimal_odds": 1.03
       },
       {
         "id": "106789:71:0",
         "market": "Passing tds",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 2.25
+        "selected_line": 1.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "106789:71:0",
         "market": "Passing tds",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.8
+        "selected_line": 1.5,
+        "decimal_odds": 1.48
       },
       {
         "id": "106789:84:0",
         "market": "Anytime td scorer",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 4.42
+        "selected_line": 0.5,
+        "decimal_odds": 3.36
       },
       {
         "id": "106789:84:0",
         "market": "Anytime td scorer",
         "player_name": "Athan Kaliakmanis",
-        "decimal_odds": 1.29
+        "selected_line": 0.5,
+        "decimal_odds": 1.09
       }
     ]
   },
@@ -3199,157 +3705,183 @@
         "id": "107358:78:0",
         "market": "Rushing attempts",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.96
+        "selected_line": 8.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "107358:78:0",
         "market": "Rushing attempts",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.04
+        "selected_line": 8.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "107358:86:0",
         "market": "Longest rush",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.09
+        "selected_line": 13.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "107358:86:0",
         "market": "Longest rush",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.91
+        "selected_line": 13.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "107358:82:0",
         "market": "First td scorer",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 12.56
+        "selected_line": 0.5,
+        "decimal_odds": 6.32
       },
       {
         "id": "107358:82:0",
         "market": "First td scorer",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.09
+        "selected_line": 0.5,
+        "decimal_odds": 0.98
       },
       {
         "id": "107358:85:0",
         "market": "Longest completion",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.96
+        "selected_line": 38.5,
+        "decimal_odds": 1.75
       },
       {
         "id": "107358:85:0",
         "market": "Longest completion",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.04
+        "selected_line": 38.5,
+        "decimal_odds": 1.82
       },
       {
         "id": "107358:75:0",
         "market": "Rushing tds",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.47
+        "selected_line": 0.5,
+        "decimal_odds": 2.05
       },
       {
         "id": "107358:75:0",
         "market": "Rushing tds",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.68
+        "selected_line": 0.5,
+        "decimal_odds": 1.42
       },
       {
         "id": "107358:81:0",
         "market": "Passing completions",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.01
+        "selected_line": 19.5,
+        "decimal_odds": 1.6
       },
       {
         "id": "107358:81:0",
         "market": "Passing completions",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.99
+        "selected_line": 19.5,
+        "decimal_odds": 1.59
       },
       {
         "id": "107358:95:0",
         "market": "Passing rushing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.01
+        "selected_line": 253.5,
+        "decimal_odds": 1.65
       },
       {
         "id": "107358:95:0",
         "market": "Passing rushing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.99
+        "selected_line": 253.5,
+        "decimal_odds": 1.63
       },
       {
         "id": "107358:76:0",
         "market": "Interceptions thrown",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.55
+        "selected_line": 0.5,
+        "decimal_odds": 2.03
       },
       {
         "id": "107358:76:0",
         "market": "Interceptions thrown",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.64
+        "selected_line": 0.5,
+        "decimal_odds": 1.33
       },
       {
         "id": "107358:74:0",
         "market": "Rushing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.99
+        "selected_line": 27.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "107358:74:0",
         "market": "Rushing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.01
+        "selected_line": 27.5,
+        "decimal_odds": 1.73
       },
       {
         "id": "107358:70:0",
         "market": "Passing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.0
+        "selected_line": 219.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107358:70:0",
         "market": "Passing yards",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.0
+        "selected_line": 219.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "107358:83:0",
         "market": "Last td scorer",
         "player_name": "Gunner Stockton",
+        "selected_line": 0.5,
         "decimal_odds": 14.64
       },
       {
         "id": "107358:83:0",
         "market": "Last td scorer",
         "player_name": "Gunner Stockton",
+        "selected_line": 0.5,
         "decimal_odds": 1.07
       },
       {
         "id": "107358:71:0",
         "market": "Passing tds",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.4
+        "selected_line": 1.5,
+        "decimal_odds": 1.95
       },
       {
         "id": "107358:71:0",
         "market": "Passing tds",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.71
+        "selected_line": 1.5,
+        "decimal_odds": 1.41
       },
       {
         "id": "107358:84:0",
         "market": "Anytime td scorer",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 2.45
+        "selected_line": 0.5,
+        "decimal_odds": 2.03
       },
       {
         "id": "107358:84:0",
         "market": "Anytime td scorer",
         "player_name": "Gunner Stockton",
-        "decimal_odds": 1.69
+        "selected_line": 0.5,
+        "decimal_odds": 1.42
       }
     ]
   },
@@ -3364,157 +3896,183 @@
         "id": "106260:78:0",
         "market": "Rushing attempts",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.95
+        "selected_line": 8.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106260:78:0",
         "market": "Rushing attempts",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.05
+        "selected_line": 8.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "106260:86:0",
         "market": "Longest rush",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.98
+        "selected_line": 13.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106260:86:0",
         "market": "Longest rush",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.03
+        "selected_line": 13.5,
+        "decimal_odds": 1.68
       },
       {
         "id": "106260:82:0",
         "market": "First td scorer",
         "player_name": "Chandler Morris",
-        "decimal_odds": 13.46
+        "selected_line": 0.5,
+        "decimal_odds": 6.48
       },
       {
         "id": "106260:82:0",
         "market": "First td scorer",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.08
+        "selected_line": 0.5,
+        "decimal_odds": 0.97
       },
       {
         "id": "106260:85:0",
         "market": "Longest completion",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.03
+        "selected_line": 42.5,
+        "decimal_odds": 1.81
       },
       {
         "id": "106260:85:0",
         "market": "Longest completion",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.97
+        "selected_line": 42.5,
+        "decimal_odds": 1.76
       },
       {
         "id": "106260:75:0",
         "market": "Rushing tds",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.59
+        "selected_line": 0.5,
+        "decimal_odds": 2.15
       },
       {
         "id": "106260:75:0",
         "market": "Rushing tds",
         "player_name": "Chandler Morris",
+        "selected_line": 0.5,
+        "decimal_odds": 1.37
+      },
+      {
+        "id": "106260:81:0",
+        "market": "Passing completions",
+        "player_name": "Chandler Morris",
+        "selected_line": 22.5,
+        "decimal_odds": 1.66
+      },
+      {
+        "id": "106260:81:0",
+        "market": "Passing completions",
+        "player_name": "Chandler Morris",
+        "selected_line": 22.5,
+        "decimal_odds": 1.54
+      },
+      {
+        "id": "106260:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Chandler Morris",
+        "selected_line": 300.5,
+        "decimal_odds": 1.64
+      },
+      {
+        "id": "106260:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Chandler Morris",
+        "selected_line": 300.5,
         "decimal_odds": 1.63
       },
       {
-        "id": "106260:81:0",
-        "market": "Passing completions",
+        "id": "106260:76:0",
+        "market": "Interceptions thrown",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.08
-      },
-      {
-        "id": "106260:81:0",
-        "market": "Passing completions",
-        "player_name": "Chandler Morris",
-        "decimal_odds": 1.92
-      },
-      {
-        "id": "106260:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Chandler Morris",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "106260:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Chandler Morris",
-        "decimal_odds": 1.99
+        "selected_line": 0.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "106260:76:0",
         "market": "Interceptions thrown",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "106260:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Chandler Morris",
-        "decimal_odds": 1.99
+        "selected_line": 0.5,
+        "decimal_odds": 1.6
       },
       {
         "id": "106260:74:0",
         "market": "Rushing yards",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.03
+        "selected_line": 30.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "106260:74:0",
         "market": "Rushing yards",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.98
+        "selected_line": 30.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106260:70:0",
         "market": "Passing yards",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.0
+        "selected_line": 265.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106260:70:0",
         "market": "Passing yards",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.0
+        "selected_line": 265.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106260:83:0",
         "market": "Last td scorer",
         "player_name": "Chandler Morris",
+        "selected_line": 0.5,
         "decimal_odds": 13.44
       },
       {
         "id": "106260:83:0",
         "market": "Last td scorer",
         "player_name": "Chandler Morris",
+        "selected_line": 0.5,
         "decimal_odds": 1.08
       },
       {
         "id": "106260:71:0",
         "market": "Passing tds",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.56
+        "selected_line": 1.5,
+        "decimal_odds": 1.28
       },
       {
         "id": "106260:71:0",
         "market": "Passing tds",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.78
+        "selected_line": 1.5,
+        "decimal_odds": 2.23
       },
       {
         "id": "106260:84:0",
         "market": "Anytime td scorer",
         "player_name": "Chandler Morris",
-        "decimal_odds": 2.57
+        "selected_line": 0.5,
+        "decimal_odds": 2.13
       },
       {
         "id": "106260:84:0",
         "market": "Anytime td scorer",
         "player_name": "Chandler Morris",
-        "decimal_odds": 1.64
+        "selected_line": 0.5,
+        "decimal_odds": 1.38
       }
     ]
   },
@@ -3529,181 +4087,211 @@
         "id": "106399:78:0",
         "market": "Rushing attempts",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.7
+        "selected_line": 4.5,
+        "decimal_odds": 1.44
       },
       {
         "id": "106399:78:0",
         "market": "Rushing attempts",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.43
+        "selected_line": 4.5,
+        "decimal_odds": 1.99
       },
       {
         "id": "106399:86:0",
         "market": "Longest rush",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.02
+        "selected_line": 7.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106399:86:0",
         "market": "Longest rush",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.98
+        "selected_line": 7.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "106399:82:0",
         "market": "First td scorer",
         "player_name": "Darian Mensah",
-        "decimal_odds": 30.96
+        "selected_line": 0.5,
+        "decimal_odds": 7.95
       },
       {
         "id": "106399:82:0",
         "market": "First td scorer",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.03
+        "selected_line": 0.5,
+        "decimal_odds": 0.93
       },
       {
         "id": "106399:85:0",
         "market": "Longest completion",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.05
+        "selected_line": 44.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "106399:85:0",
         "market": "Longest completion",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.95
+        "selected_line": 44.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "106399:75:0",
         "market": "Rushing tds",
         "player_name": "Darian Mensah",
-        "decimal_odds": 4.83
+        "selected_line": 0.5,
+        "decimal_odds": 3.56
       },
       {
         "id": "106399:75:0",
         "market": "Rushing tds",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.26
+        "selected_line": 0.5,
+        "decimal_odds": 1.07
       },
       {
         "id": "106399:81:0",
         "market": "Passing completions",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.0
+        "selected_line": 20.5,
+        "decimal_odds": 1.53
       },
       {
         "id": "106399:81:0",
         "market": "Passing completions",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.0
+        "selected_line": 20.5,
+        "decimal_odds": 1.66
       },
       {
         "id": "106399:97:0",
         "market": "Lost fumbles",
         "player_name": "Darian Mensah",
+        "selected_line": 0.5,
         "decimal_odds": 24.94
       },
       {
         "id": "106399:97:0",
         "market": "Lost fumbles",
         "player_name": "Darian Mensah",
+        "selected_line": 0.5,
         "decimal_odds": 1.04
       },
       {
         "id": "106399:96:0",
         "market": "Fumbles",
         "player_name": "Darian Mensah",
+        "selected_line": 0.5,
         "decimal_odds": 10.75
       },
       {
         "id": "106399:96:0",
         "market": "Fumbles",
         "player_name": "Darian Mensah",
+        "selected_line": 0.5,
         "decimal_odds": 1.1
       },
       {
         "id": "106399:95:0",
         "market": "Passing rushing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.99
+        "selected_line": 277.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106399:95:0",
         "market": "Passing rushing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.01
+        "selected_line": 277.5,
+        "decimal_odds": 1.64
       },
       {
         "id": "106399:76:0",
         "market": "Interceptions thrown",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.27
+        "selected_line": 0.5,
+        "decimal_odds": 1.85
       },
       {
         "id": "106399:76:0",
         "market": "Interceptions thrown",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.79
+        "selected_line": 0.5,
+        "decimal_odds": 1.43
       },
       {
         "id": "106399:74:0",
         "market": "Rushing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.98
+        "selected_line": 1.5,
+        "decimal_odds": 1.75
       },
       {
         "id": "106399:74:0",
         "market": "Rushing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.02
+        "selected_line": 1.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106399:70:0",
         "market": "Passing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.01
+        "selected_line": 272.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "106399:70:0",
         "market": "Passing yards",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.99
+        "selected_line": 272.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106399:83:0",
         "market": "Last td scorer",
         "player_name": "Darian Mensah",
-        "decimal_odds": 29.15
+        "selected_line": 0.5,
+        "decimal_odds": 33.0
       },
       {
         "id": "106399:83:0",
         "market": "Last td scorer",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.04
+        "selected_line": 0.5,
+        "decimal_odds": 1.03
       },
       {
         "id": "106399:71:0",
         "market": "Passing tds",
         "player_name": "Darian Mensah",
-        "decimal_odds": 1.54
+        "selected_line": 2.5,
+        "decimal_odds": 2.26
       },
       {
         "id": "106399:71:0",
         "market": "Passing tds",
         "player_name": "Darian Mensah",
-        "decimal_odds": 2.84
-      },
-      {
-        "id": "106399:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Darian Mensah",
-        "decimal_odds": 4.74
-      },
-      {
-        "id": "106399:84:0",
-        "market": "Anytime td scorer",
-        "player_name": "Darian Mensah",
+        "selected_line": 2.5,
         "decimal_odds": 1.27
+      },
+      {
+        "id": "106399:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Darian Mensah",
+        "selected_line": 0.5,
+        "decimal_odds": 3.5
+      },
+      {
+        "id": "106399:84:0",
+        "market": "Anytime td scorer",
+        "player_name": "Darian Mensah",
+        "selected_line": 0.5,
+        "decimal_odds": 1.07
       }
     ]
   },
@@ -3718,157 +4306,183 @@
         "id": "106470:78:0",
         "market": "Rushing attempts",
         "player_name": "Rickie Collins",
-        "decimal_odds": 2.27
+        "selected_line": 8.5,
+        "decimal_odds": 1.9
       },
       {
         "id": "106470:78:0",
         "market": "Rushing attempts",
         "player_name": "Rickie Collins",
-        "decimal_odds": 1.79
+        "selected_line": 8.5,
+        "decimal_odds": 1.5
       },
       {
         "id": "106470:86:0",
         "market": "Longest rush",
         "player_name": "Rickie Collins",
-        "decimal_odds": 2.06
+        "selected_line": 10.5,
+        "decimal_odds": 1.62
       },
       {
         "id": "106470:86:0",
         "market": "Longest rush",
         "player_name": "Rickie Collins",
-        "decimal_odds": 1.94
+        "selected_line": 10.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "106470:82:0",
         "market": "First td scorer",
         "player_name": "Rickie Collins",
-        "decimal_odds": 21.74
+        "selected_line": 0.5,
+        "decimal_odds": 7.6
       },
       {
         "id": "106470:82:0",
         "market": "First td scorer",
         "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 0.94
+      },
+      {
+        "id": "106470:85:0",
+        "market": "Longest completion",
+        "player_name": "Rickie Collins",
+        "selected_line": 40.5,
+        "decimal_odds": 1.76
+      },
+      {
+        "id": "106470:85:0",
+        "market": "Longest completion",
+        "player_name": "Rickie Collins",
+        "selected_line": 40.5,
+        "decimal_odds": 1.81
+      },
+      {
+        "id": "106470:75:0",
+        "market": "Rushing tds",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 2.81
+      },
+      {
+        "id": "106470:75:0",
+        "market": "Rushing tds",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 1.18
+      },
+      {
+        "id": "106470:81:0",
+        "market": "Passing completions",
+        "player_name": "Rickie Collins",
+        "selected_line": 20.5,
+        "decimal_odds": 1.54
+      },
+      {
+        "id": "106470:81:0",
+        "market": "Passing completions",
+        "player_name": "Rickie Collins",
+        "selected_line": 20.5,
+        "decimal_odds": 1.66
+      },
+      {
+        "id": "106470:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 260.5,
+        "decimal_odds": 1.63
+      },
+      {
+        "id": "106470:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 260.5,
+        "decimal_odds": 1.65
+      },
+      {
+        "id": "106470:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 1.24
+      },
+      {
+        "id": "106470:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 2.26
+      },
+      {
+        "id": "106470:74:0",
+        "market": "Rushing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 8.5,
+        "decimal_odds": 1.71
+      },
+      {
+        "id": "106470:74:0",
+        "market": "Rushing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 8.5,
+        "decimal_odds": 1.73
+      },
+      {
+        "id": "106470:70:0",
+        "market": "Passing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 248.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "106470:70:0",
+        "market": "Passing yards",
+        "player_name": "Rickie Collins",
+        "selected_line": 248.5,
+        "decimal_odds": 1.7
+      },
+      {
+        "id": "106470:83:0",
+        "market": "Last td scorer",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
+        "decimal_odds": 21.41
+      },
+      {
+        "id": "106470:83:0",
+        "market": "Last td scorer",
+        "player_name": "Rickie Collins",
+        "selected_line": 0.5,
         "decimal_odds": 1.05
       },
       {
-        "id": "106470:85:0",
-        "market": "Longest completion",
+        "id": "106470:71:0",
+        "market": "Passing tds",
         "player_name": "Rickie Collins",
-        "decimal_odds": 2.05
-      },
-      {
-        "id": "106470:85:0",
-        "market": "Longest completion",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.95
-      },
-      {
-        "id": "106470:75:0",
-        "market": "Rushing tds",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 3.73
-      },
-      {
-        "id": "106470:75:0",
-        "market": "Rushing tds",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.37
-      },
-      {
-        "id": "106470:81:0",
-        "market": "Passing completions",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.91
-      },
-      {
-        "id": "106470:81:0",
-        "market": "Passing completions",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.1
-      },
-      {
-        "id": "106470:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "106470:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.01
-      },
-      {
-        "id": "106470:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.52
-      },
-      {
-        "id": "106470:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.94
-      },
-      {
-        "id": "106470:74:0",
-        "market": "Rushing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106470:74:0",
-        "market": "Rushing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106470:70:0",
-        "market": "Passing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106470:70:0",
-        "market": "Passing yards",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 2.0
-      },
-      {
-        "id": "106470:83:0",
-        "market": "Last td scorer",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 25.25
-      },
-      {
-        "id": "106470:83:0",
-        "market": "Last td scorer",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.04
+        "selected_line": 1.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "106470:71:0",
         "market": "Passing tds",
         "player_name": "Rickie Collins",
-        "decimal_odds": 2.18
-      },
-      {
-        "id": "106470:71:0",
-        "market": "Passing tds",
-        "player_name": "Rickie Collins",
-        "decimal_odds": 1.85
+        "selected_line": 1.5,
+        "decimal_odds": 1.48
       },
       {
         "id": "106470:84:0",
         "market": "Anytime td scorer",
         "player_name": "Rickie Collins",
-        "decimal_odds": 3.64
+        "selected_line": 0.5,
+        "decimal_odds": 2.74
       },
       {
         "id": "106470:84:0",
         "market": "Anytime td scorer",
         "player_name": "Rickie Collins",
-        "decimal_odds": 1.38
+        "selected_line": 0.5,
+        "decimal_odds": 1.19
       }
     ]
   },
@@ -3883,157 +4497,183 @@
         "id": "107151:78:0",
         "market": "Rushing attempts",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.84
+        "selected_line": 5.5,
+        "decimal_odds": 1.54
       },
       {
         "id": "107151:78:0",
         "market": "Rushing attempts",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.2
+        "selected_line": 5.5,
+        "decimal_odds": 1.83
       },
       {
         "id": "107151:86:0",
         "market": "Longest rush",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.07
+        "selected_line": 9.5,
+        "decimal_odds": 1.71
       },
       {
         "id": "107151:86:0",
         "market": "Longest rush",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.94
+        "selected_line": 9.5,
+        "decimal_odds": 1.61
       },
       {
         "id": "107151:82:0",
         "market": "First td scorer",
         "player_name": "DJ Lagway",
-        "decimal_odds": 19.88
+        "selected_line": 0.5,
+        "decimal_odds": 7.31
       },
       {
         "id": "107151:82:0",
         "market": "First td scorer",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.05
+        "selected_line": 0.5,
+        "decimal_odds": 0.95
       },
       {
         "id": "107151:85:0",
         "market": "Longest completion",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.99
+        "selected_line": 40.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "107151:85:0",
         "market": "Longest completion",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.01
+        "selected_line": 40.5,
+        "decimal_odds": 1.8
       },
       {
         "id": "107151:75:0",
         "market": "Rushing tds",
         "player_name": "DJ Lagway",
-        "decimal_odds": 3.6
+        "selected_line": 0.5,
+        "decimal_odds": 2.86
       },
       {
         "id": "107151:75:0",
         "market": "Rushing tds",
         "player_name": "DJ Lagway",
+        "selected_line": 0.5,
+        "decimal_odds": 1.17
+      },
+      {
+        "id": "107151:81:0",
+        "market": "Passing completions",
+        "player_name": "DJ Lagway",
+        "selected_line": 19.5,
+        "decimal_odds": 1.48
+      },
+      {
+        "id": "107151:81:0",
+        "market": "Passing completions",
+        "player_name": "DJ Lagway",
+        "selected_line": 19.5,
+        "decimal_odds": 1.73
+      },
+      {
+        "id": "107151:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "DJ Lagway",
+        "selected_line": 249.5,
+        "decimal_odds": 1.63
+      },
+      {
+        "id": "107151:95:0",
+        "market": "Passing rushing yards",
+        "player_name": "DJ Lagway",
+        "selected_line": 249.5,
+        "decimal_odds": 1.65
+      },
+      {
+        "id": "107151:76:0",
+        "market": "Interceptions thrown",
+        "player_name": "DJ Lagway",
+        "selected_line": 0.5,
         "decimal_odds": 1.39
       },
       {
-        "id": "107151:81:0",
-        "market": "Passing completions",
-        "player_name": "DJ Lagway",
-        "decimal_odds": 1.85
-      },
-      {
-        "id": "107151:81:0",
-        "market": "Passing completions",
-        "player_name": "DJ Lagway",
-        "decimal_odds": 2.18
-      },
-      {
-        "id": "107151:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "DJ Lagway",
-        "decimal_odds": 1.99
-      },
-      {
-        "id": "107151:95:0",
-        "market": "Passing rushing yards",
-        "player_name": "DJ Lagway",
-        "decimal_odds": 2.01
-      },
-      {
         "id": "107151:76:0",
         "market": "Interceptions thrown",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.72
-      },
-      {
-        "id": "107151:76:0",
-        "market": "Interceptions thrown",
-        "player_name": "DJ Lagway",
-        "decimal_odds": 2.39
+        "selected_line": 0.5,
+        "decimal_odds": 1.91
       },
       {
         "id": "107151:74:0",
         "market": "Rushing yards",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.02
+        "selected_line": 5.5,
+        "decimal_odds": 1.74
       },
       {
         "id": "107151:74:0",
         "market": "Rushing yards",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.98
+        "selected_line": 5.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107151:70:0",
         "market": "Passing yards",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.01
+        "selected_line": 241.5,
+        "decimal_odds": 1.7
       },
       {
         "id": "107151:70:0",
         "market": "Passing yards",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.99
+        "selected_line": 241.5,
+        "decimal_odds": 1.69
       },
       {
         "id": "107151:83:0",
         "market": "Last td scorer",
         "player_name": "DJ Lagway",
+        "selected_line": 0.5,
         "decimal_odds": 19.65
       },
       {
         "id": "107151:83:0",
         "market": "Last td scorer",
         "player_name": "DJ Lagway",
+        "selected_line": 0.5,
         "decimal_odds": 1.05
       },
       {
         "id": "107151:71:0",
         "market": "Passing tds",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.84
+        "selected_line": 1.5,
+        "decimal_odds": 1.51
       },
       {
         "id": "107151:71:0",
         "market": "Passing tds",
         "player_name": "DJ Lagway",
-        "decimal_odds": 2.18
+        "selected_line": 1.5,
+        "decimal_odds": 1.78
       },
       {
         "id": "107151:84:0",
         "market": "Anytime td scorer",
         "player_name": "DJ Lagway",
-        "decimal_odds": 3.52
+        "selected_line": 0.5,
+        "decimal_odds": 2.8
       },
       {
         "id": "107151:84:0",
         "market": "Anytime td scorer",
         "player_name": "DJ Lagway",
-        "decimal_odds": 1.4
+        "selected_line": 0.5,
+        "decimal_odds": 1.18
       }
     ]
   }

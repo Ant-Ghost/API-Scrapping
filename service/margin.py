@@ -106,7 +106,7 @@ class DynamicMargin:
         is_live: bool
     ):
         try:
-            
+
             if league_name_string not in (name.value for name in LeagueNames):
                 print("League not found", league_name_string, category_name, is_live)
                 return 0.0
@@ -119,12 +119,7 @@ class DynamicMargin:
                 print("Historical data not found", league_name, category_name, is_live)
                 return 0.0
 
-            margins: Optional[Dict[str, float]] = historical_data.get(category_name)
-            if not margins:
-                print("Margin not found", league_name, category_name, is_live)
-                return 0.0
-
-            return margins["inPlayMargin"] if is_live else margins["preGameMargin"]
+            return historical_data["inPlayMargin"] if is_live else historical_data["preGameMargin"]
         except Exception as e:
             print_exception(e)
             raise Exception(f"Error getting dynamic margin: {str(e)}")

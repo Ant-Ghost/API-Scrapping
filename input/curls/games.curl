@@ -1,0 +1,17 @@
+curl 'https://api3.hotstreak.gg/graphql?query=query+games+%7B+games+%7B+__typename+id+cacheDebug+createdAt+generatedAt+scheduledAt+status+updatedAt+%7D+%7D&operationName=games' \
+  -H 'accept: application/graphql-response+json, application/json' \
+  -H 'accept-language: en-US,en;q=0.7' \
+  -H 'if-none-match: W/"c5fa2afca088188b60f2bd69e80c6503"' \
+  -H 'origin: https://hs3.hotstreak.gg' \
+  -H 'priority: u=1, i' \
+  -H 'referer: https://hs3.hotstreak.gg/' \
+  -H 'sec-ch-ua: "Brave";v="135", "Not-A.Brand";v="8", "Chromium";v="135"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Linux"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'sec-gpc: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36' \
+  -H 'x-hs3-version: 2' \
+  -H 'x-requested-with: web'

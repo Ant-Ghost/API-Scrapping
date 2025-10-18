@@ -60,21 +60,22 @@ class MatchOddsService:
             required_odds: List[Odd] = []
             for player in players:
 
-
                 for market in player.markets:
-                    decimal_odds = self.perform_odds(market, game)
+                    decimal_odds, line = self.perform_odds(market, game)
 
                     required_odds.extend([
                         Odd(
                             id=market.id,
                             market=market.category.name,
                             player_name=player.full_name,
+                            selected_line=line,
                             decimal_odds=decimal_odds[0]
                         ),
                         Odd(
                             id=market.id,
                             market=market.category.name,
                             player_name=player.full_name,
+                            selected_line=line,
                             decimal_odds=decimal_odds[1]
                         )
                     ])
@@ -102,7 +103,7 @@ class MatchOddsService:
 
             median_probability = self.get_median_probability(market.probabilities)
 
-            decimal_odd_over, decimal_odd_under = 0.0, 0.0
+            decimal_odd_over, decimal_odd_under, line = 0.0, 0.0, 0.0
 
             if median_probability:
                 decimal_odd_over = self.formatOdds(
@@ -115,8 +116,9 @@ class MatchOddsService:
                     format_type='decimal',
                     custom_margin=margin
                 )
+                line = median_probability.line
 
-            return (decimal_odd_over, decimal_odd_under)
+            return (decimal_odd_over, decimal_odd_under), line
         except Exception as e:
             print_exception(e)
             raise Exception(f"Error performing odds calculation: {str(e)}")
@@ -151,6 +153,7 @@ class MatchOddsService:
             f = margin * (1 + term_b * term_c)
 
             if f >= 1.0:
+                import ipdb; ipdb.set_trace()
                 # Avoid division by zero in the next step
                 return raw_probability # Return unadjusted value as a fallback
 

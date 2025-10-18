@@ -1,3 +1,4 @@
 env
 .vscode
 dump
+.DS_Store

@@ -32,11 +32,11 @@ class League:
     games: List[Game] = field(default_factory=list)
 
 class GameMap:
-    _id_to_game_map: Dict[str, Game] = {}
-    _game_id_to_league_map: Dict[str, League] = {}
 
     def __init__(self, leagues: List[League]) -> None:
-        
+        self._id_to_game_map: Dict[str, Game] = {}
+        self._game_id_to_league_map: Dict[str, League] = {}
+
         for league in leagues:
             for game in league.games:
                 self._id_to_game_map.update({
@@ -52,12 +52,11 @@ class GameMap:
 
 class OpponentMap:
 
-    _id_to_opponent_map: Dict[str, Opponent] = {}
-    _opponent_id_to_league_map: Dict[str, League] = {}
-    _opponent_id_to_game_map: Dict[str, Game] = {}
-
     def __init__(self, leagues: List[League]) -> None:
-        
+        self._id_to_opponent_map: Dict[str, Opponent] = {}
+        self._opponent_id_to_league_map: Dict[str, League] = {}
+        self._opponent_id_to_game_map: Dict[str, Game] = {}
+
         for league in leagues:
             for game in league.games:
                 self._id_to_opponent_map.update({

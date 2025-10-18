@@ -1,0 +1,2672 @@
+{
+    "data": {
+        "system": {
+            "__typename": "System",
+            "pusherCluster": "us2",
+            "pusherKey": "8feb75ebc31c8f76afd6",
+            "defaultMargin": 0.13,
+            "maxLegsPerBet": 8,
+            "maxMultiplier": 500,
+            "sports": [
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzY",
+                    "enabled": false,
+                    "categories": [],
+                    "name": "Tennis"
+                },
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzI",
+                    "enabled": true,
+                    "categories": [
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg5",
+                            "name": "Defensive tackles assists",
+                            "ordinality": null,
+                            "groupName": "defense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMA",
+                            "name": "First half passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc4",
+                            "name": "Rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc3",
+                            "name": "Passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0OQ",
+                            "name": "First half moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1MA",
+                            "name": "First half spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1NA",
+                            "name": "Second half totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1NQ",
+                            "name": "First quarter moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3MQ",
+                            "name": "First half passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Mw",
+                            "name": "First quarter passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3NQ",
+                            "name": "Third quarter passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Ng",
+                            "name": "Fourth quarter passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNw",
+                            "name": "First half interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzcx",
+                            "name": "Passing tds",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzcz",
+                            "name": "Receiving tds",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc0",
+                            "name": "Rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc1",
+                            "name": "Rushing tds",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc2",
+                            "name": "Interceptions thrown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc5",
+                            "name": "Receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzgw",
+                            "name": "Receiving rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzgy",
+                            "name": "First td scorer",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzgz",
+                            "name": "Last td scorer",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg0",
+                            "name": "Anytime td scorer",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg1",
+                            "name": "Longest completion",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg2",
+                            "name": "Longest rush",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzkw",
+                            "name": "Field goal made",
+                            "ordinality": null,
+                            "groupName": "specialteams"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzkx",
+                            "name": "Extra point made",
+                            "ordinality": null,
+                            "groupName": "specialteams"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzkz",
+                            "name": "Sacks",
+                            "ordinality": null,
+                            "groupName": "defense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk0",
+                            "name": "Defensive interceptions",
+                            "ordinality": null,
+                            "groupName": "defense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk1",
+                            "name": "Passing rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk2",
+                            "name": "Fumbles",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk3",
+                            "name": "Lost fumbles",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk4",
+                            "name": "Team lost fumbles",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMA",
+                            "name": "Moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMQ",
+                            "name": "Spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMg",
+                            "name": "Totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwMw",
+                            "name": "Team rushing attempts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNA",
+                            "name": "Team receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNQ",
+                            "name": "Team passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNg",
+                            "name": "Team passing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwNw",
+                            "name": "Team receptions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwOA",
+                            "name": "Team defensive tackles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEwOQ",
+                            "name": "Match receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExMA",
+                            "name": "Match rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExMQ",
+                            "name": "Match passing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExMg",
+                            "name": "Match passing completions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExMw",
+                            "name": "Match tackles assists",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExNA",
+                            "name": "Team first touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExNQ",
+                            "name": "Team last touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExNg",
+                            "name": "No touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExNw",
+                            "name": "Team defense or st touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExOA",
+                            "name": "Team receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzExOQ",
+                            "name": "Team total touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMA",
+                            "name": "Team rush touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMQ",
+                            "name": "Team rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMg",
+                            "name": "Team offense touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyMw",
+                            "name": "Team offense yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNA",
+                            "name": "Team rushing and receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNQ",
+                            "name": "Team points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNg",
+                            "name": "Team defensive tackles and assists",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyNw",
+                            "name": "Team sacks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyOA",
+                            "name": "Match total touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEyOQ",
+                            "name": "Match rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg4",
+                            "name": "Defensive assists",
+                            "ordinality": null,
+                            "groupName": "defense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzgx",
+                            "name": "Passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMA",
+                            "name": "Match passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMQ",
+                            "name": "Match receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMg",
+                            "name": "Match offensive touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzMw",
+                            "name": "Match offense yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNA",
+                            "name": "Match rushing and receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNQ",
+                            "name": "Match passing and rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNg",
+                            "name": "Match rushing attempts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzNw",
+                            "name": "Match receptions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzOA",
+                            "name": "Match tackles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEzOQ",
+                            "name": "Match sacks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0MA",
+                            "name": "Match assists",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0MQ",
+                            "name": "Team passing yard gross",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Mg",
+                            "name": "Match passing yard gross",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Mw",
+                            "name": "Team 2pt made",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0NA",
+                            "name": "Team 2pt attempts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0NQ",
+                            "name": "Match 2pt made",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Ng",
+                            "name": "Match 2pt attempts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0Nw",
+                            "name": "Team fumbles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0OA",
+                            "name": "Match fumbles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1MQ",
+                            "name": "First half totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Mg",
+                            "name": "Second half moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Mw",
+                            "name": "Second half spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Ng",
+                            "name": "First quarter spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1Nw",
+                            "name": "First quarter totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1OA",
+                            "name": "Second quarter moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1OQ",
+                            "name": "Second quarter spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2MA",
+                            "name": "Second quarter totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2MQ",
+                            "name": "Third quarter moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Mg",
+                            "name": "Third quarter spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Mw",
+                            "name": "Third quarter totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2NA",
+                            "name": "Fourth quarter moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2NQ",
+                            "name": "Fourth quarter spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Ng",
+                            "name": "Fourth quarter totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzcw",
+                            "name": "Passing yards",
+                            "ordinality": 1,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzcy",
+                            "name": "Receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg3",
+                            "name": "Longest reception",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzky",
+                            "name": "Kicking points",
+                            "ordinality": null,
+                            "groupName": "specialteams"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk5",
+                            "name": "Match lost fumbles",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3MA",
+                            "name": "Tackles",
+                            "ordinality": null,
+                            "groupName": "defense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Mg",
+                            "name": "Second half passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Mw",
+                            "name": "Leaders team receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4NA",
+                            "name": "Leaders game receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4NQ",
+                            "name": "Leaders day receiving yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4OQ",
+                            "name": "Leaders team receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5MA",
+                            "name": "Leaders game receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5MQ",
+                            "name": "Leaders day receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5NQ",
+                            "name": "Leaders team rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Ng",
+                            "name": "Leaders game rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Nw",
+                            "name": "Leaders day rushing yards",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMQ",
+                            "name": "Leaders team rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMg",
+                            "name": "Leaders game rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMw",
+                            "name": "Leaders day rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNg",
+                            "name": "Leaders team receptions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNw",
+                            "name": "Leaders game receptions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxOA",
+                            "name": "Leaders day receptions",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyOA",
+                            "name": "Leaders team anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyOQ",
+                            "name": "Leaders game anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMA",
+                            "name": "Leaders day anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMQ",
+                            "name": "Second half passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMg",
+                            "name": "First quarter passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxMw",
+                            "name": "First half rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNA",
+                            "name": "Second half rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxNQ",
+                            "name": "First quarter rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNQ",
+                            "name": "First half passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNg",
+                            "name": "Second half passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNw",
+                            "name": "First quarter passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3NA",
+                            "name": "Second quarter passing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3Nw",
+                            "name": "First half passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3OA",
+                            "name": "Second half passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3OQ",
+                            "name": "First quarter passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4MA",
+                            "name": "Second quarter passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4MQ",
+                            "name": "Third quarter passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Mg",
+                            "name": "Fourth quarter passing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Ng",
+                            "name": "First half receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4Nw",
+                            "name": "Second half receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4OA",
+                            "name": "First quarter receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Mg",
+                            "name": "First half receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5Mw",
+                            "name": "Second half receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5NA",
+                            "name": "First quarter receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5OA",
+                            "name": "First half rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5OQ",
+                            "name": "Second half rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwMA",
+                            "name": "First quarter rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNA",
+                            "name": "First half rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNQ",
+                            "name": "Second half rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwNg",
+                            "name": "First quarter rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwOA",
+                            "name": "Second half interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMwOQ",
+                            "name": "First quarter interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMxOQ",
+                            "name": "First half receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMA",
+                            "name": "Second half receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMQ",
+                            "name": "First quarter receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMg",
+                            "name": "First half rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyMw",
+                            "name": "Second half rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMyNA",
+                            "name": "First quarter rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMQ",
+                            "name": "First half anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMg",
+                            "name": "Second half anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNw",
+                            "name": "Leaders team longest reception",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzOA",
+                            "name": "Leaders game longest reception",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzOQ",
+                            "name": "Leaders day longest reception",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0MA",
+                            "name": "Leaders team longest rush",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0MQ",
+                            "name": "Leaders game longest rush",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Mg",
+                            "name": "Leaders day longest rush",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM5MA",
+                            "name": "Match passing attempts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1OA",
+                            "name": "Second quarter passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1OQ",
+                            "name": "Third quarter passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2MA",
+                            "name": "Fourth quarter passing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2MQ",
+                            "name": "Second quarter rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Mg",
+                            "name": "Third quarter rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Mw",
+                            "name": "Fourth quarter rushing attempts",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM3MA",
+                            "name": "Second quarter passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM3MQ",
+                            "name": "Third quarter passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM3Mg",
+                            "name": "Fourth quarter passing completions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzMw",
+                            "name": "First quarter anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNA",
+                            "name": "Second quarter anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNQ",
+                            "name": "Third quarter anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMzNg",
+                            "name": "Fourth quarter anytime touchdown",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Mw",
+                            "name": "Second quarter receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0NA",
+                            "name": "Third quarter receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0NQ",
+                            "name": "Fourth quarter receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Ng",
+                            "name": "Second quarter receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0Nw",
+                            "name": "Third quarter receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0OA",
+                            "name": "Fourth quarter receiving touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0OQ",
+                            "name": "Second quarter rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1MA",
+                            "name": "Third quarter rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1MQ",
+                            "name": "Fourth quarter rushing yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Mg",
+                            "name": "Second quarter rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Mw",
+                            "name": "Third quarter rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1NA",
+                            "name": "Fourth quarter rushing touchdowns",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1NQ",
+                            "name": "Second quarter interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Ng",
+                            "name": "Third quarter interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1Nw",
+                            "name": "Fourth quarter interceptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2NA",
+                            "name": "Second quarter receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2NQ",
+                            "name": "Third quarter receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Ng",
+                            "name": "Fourth quarter receptions",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2Nw",
+                            "name": "Second quarter rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2OA",
+                            "name": "Third quarter rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2OQ",
+                            "name": "Fourth quarter rushing receiving yards",
+                            "ordinality": null,
+                            "groupName": "offense"
+                        }
+                    ],
+                    "name": "Football"
+                },
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzE",
+                    "enabled": true,
+                    "categories": [
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI",
+                            "name": "Assists",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ",
+                            "name": "Steals",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM",
+                            "name": "Rebounds",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU",
+                            "name": "Turnovers",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY",
+                            "name": "Blocks",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzc",
+                            "name": "Threes made",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzk",
+                            "name": "Triple double",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEw",
+                            "name": "Points assists",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEx",
+                            "name": "Points rebounds",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEy",
+                            "name": "Assists rebounds",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzEz",
+                            "name": "Points assists rebounds",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE0",
+                            "name": "Steals blocks",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2",
+                            "name": "First quarter assists",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3",
+                            "name": "First quarter rebounds",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4",
+                            "name": "First basket scorer",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5",
+                            "name": "First basket exact ft",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIw",
+                            "name": "First basket exact 2pt",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIx",
+                            "name": "First basket exact 3pt",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIy",
+                            "name": "Ft made",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0",
+                            "name": "Fg made",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1",
+                            "name": "Fg attempted",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2",
+                            "name": "Two made",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI3",
+                            "name": "Two attempted",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI4",
+                            "name": "Three attempted",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI5",
+                            "name": "Personal fouls",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMx",
+                            "name": "First assist 2pm",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMy",
+                            "name": "First assist 3pm",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMz",
+                            "name": "First rebounder",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM0",
+                            "name": "First rebound oreb",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM1",
+                            "name": "First rebound dre",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM2",
+                            "name": "Moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM3",
+                            "name": "Spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM4",
+                            "name": "Totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzM5",
+                            "name": "Match assists",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQw",
+                            "name": "Match rebounds",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQx",
+                            "name": "Match steals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQy",
+                            "name": "Match turnovers",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQz",
+                            "name": "Match blocks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ0",
+                            "name": "Match three made",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ1",
+                            "name": "Team points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ2",
+                            "name": "Team assists",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ3",
+                            "name": "Team rebounds",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ4",
+                            "name": "Team steals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzQ5",
+                            "name": "Team turnovers",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzUw",
+                            "name": "Team blocks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzUx",
+                            "name": "Team three made",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzUy",
+                            "name": "Team first half win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzUz",
+                            "name": "Team first half spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU0",
+                            "name": "Match first half total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU1",
+                            "name": "Team second half win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU2",
+                            "name": "Team second half spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU3",
+                            "name": "Match second half total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU4",
+                            "name": "Team quarter one win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzU5",
+                            "name": "Team quarter one spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzYw",
+                            "name": "Match quarter one total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzYx",
+                            "name": "Team quarter two win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzYy",
+                            "name": "Team quarter two spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzYz",
+                            "name": "Match quarter two total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY0",
+                            "name": "Team quarter three win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY1",
+                            "name": "Team quarter three spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY2",
+                            "name": "Match quarter three total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY3",
+                            "name": "Team quarter four win",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY4",
+                            "name": "Team quarter four spread actual",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzY5",
+                            "name": "Match quarter four total points",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE",
+                            "name": "Points",
+                            "ordinality": 1,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5Lzg",
+                            "name": "Double double",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE1",
+                            "name": "First quarter points",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIz",
+                            "name": "Ft attempted",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzMw",
+                            "name": "First assister",
+                            "ordinality": null,
+                            "groupName": "all"
+                        }
+                    ],
+                    "name": "Basketball"
+                },
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzU",
+                    "enabled": false,
+                    "categories": [
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0MA",
+                            "name": "Kills 1",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0MQ",
+                            "name": "Kills 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Mg",
+                            "name": "Kills 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Mw",
+                            "name": "Kills 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0NA",
+                            "name": "Kills 1 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0NQ",
+                            "name": "Kills 1 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Ng",
+                            "name": "Kills 1 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0Nw",
+                            "name": "Kills 2 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0OA",
+                            "name": "Kills 2 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI0OQ",
+                            "name": "Kills 3 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1MA",
+                            "name": "Deaths 1",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1MQ",
+                            "name": "Deaths 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Mg",
+                            "name": "Deaths 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Mw",
+                            "name": "Deaths 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1NA",
+                            "name": "Deaths 1 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1NQ",
+                            "name": "Deaths 1 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Ng",
+                            "name": "Deaths 1 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1Nw",
+                            "name": "Deaths 2 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1OA",
+                            "name": "Deaths 2 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI1OQ",
+                            "name": "Deaths 3 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2MA",
+                            "name": "Headshots 1",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2MQ",
+                            "name": "Headshots 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Mg",
+                            "name": "Headshots 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Mw",
+                            "name": "Headshots 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2NA",
+                            "name": "Headshots 1 2",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2NQ",
+                            "name": "Headshots 1 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Ng",
+                            "name": "Headshots 1 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2Nw",
+                            "name": "Headshots 2 3",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2OA",
+                            "name": "Headshots 2 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzI2OQ",
+                            "name": "Headshots 3 4",
+                            "ordinality": null,
+                            "groupName": "all"
+                        }
+                    ],
+                    "name": "CS2"
+                },
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzM",
+                    "enabled": true,
+                    "categories": [
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2OQ",
+                            "name": "Singles",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2OA",
+                            "name": "Win probability",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3MA",
+                            "name": "Doubles",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Mg",
+                            "name": "Home runs",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Mw",
+                            "name": "Total bases",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3NA",
+                            "name": "Hits",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3NQ",
+                            "name": "Hits allowed",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Nw",
+                            "name": "Hits runs rbis",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3OA",
+                            "name": "Outs",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3OQ",
+                            "name": "Runs",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4MA",
+                            "name": "Rbis",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4MQ",
+                            "name": "Stolen bases",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Mw",
+                            "name": "Inplay outs",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4NA",
+                            "name": "Batter strikeouts",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4NQ",
+                            "name": "Batter walks",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Ng",
+                            "name": "No hit",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Nw",
+                            "name": "Any other",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4OQ",
+                            "name": "First earned run",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5MA",
+                            "name": "First hit",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5MQ",
+                            "name": "First run",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Mg",
+                            "name": "First rbi",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Mw",
+                            "name": "First home run",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5NA",
+                            "name": "Match singles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5NQ",
+                            "name": "Match doubles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Ng",
+                            "name": "Match triples",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5Nw",
+                            "name": "Match home runs",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5OA",
+                            "name": "Match total bases",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE5OQ",
+                            "name": "Match hits",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMA",
+                            "name": "Match rbis",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMQ",
+                            "name": "Match stolen bases",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMg",
+                            "name": "Match strikeouts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwMw",
+                            "name": "Match batter walks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNA",
+                            "name": "Moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNQ",
+                            "name": "Totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNg",
+                            "name": "Spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwNw",
+                            "name": "Team singles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwOA",
+                            "name": "Team doubles",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIwOQ",
+                            "name": "Team triples",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMA",
+                            "name": "Team home runs",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMQ",
+                            "name": "Team total bases",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMg",
+                            "name": "Team hits",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxMw",
+                            "name": "Team runs",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNA",
+                            "name": "Team rbis",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNQ",
+                            "name": "Team stolen bases",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNg",
+                            "name": "Team strikeouts",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxNw",
+                            "name": "Team batter walks",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxOA",
+                            "name": "Team first hit",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIxOQ",
+                            "name": "Team first run",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMA",
+                            "name": "Team first rbi",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMQ",
+                            "name": "Team first home run",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE2Nw",
+                            "name": "Strikeouts",
+                            "ordinality": 1,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3MQ",
+                            "name": "Triples",
+                            "ordinality": null,
+                            "groupName": "batters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE3Ng",
+                            "name": "Earned runs",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4Mg",
+                            "name": "Walks",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzE4OA",
+                            "name": "First strikeout",
+                            "ordinality": null,
+                            "groupName": "pitchers"
+                        }
+                    ],
+                    "name": "Baseball"
+                },
+                {
+                    "__typename": "Sport",
+                    "id": "Z2lkOi8vaHMzL1Nwb3J0LzQ",
+                    "enabled": true,
+                    "categories": [
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMg",
+                            "name": "Moneyline",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyMw",
+                            "name": "Totals",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNA",
+                            "name": "Spread",
+                            "ordinality": null,
+                            "groupName": "uncategorized"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNQ",
+                            "name": "Shots",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNw",
+                            "name": "Assists",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyOA",
+                            "name": "Blocked shots",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyOQ",
+                            "name": "Win",
+                            "ordinality": null,
+                            "groupName": "goalies"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMA",
+                            "name": "Goals against",
+                            "ordinality": null,
+                            "groupName": "goalies"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMQ",
+                            "name": "Saves",
+                            "ordinality": null,
+                            "groupName": "goalies"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMg",
+                            "name": "Shutouts",
+                            "ordinality": null,
+                            "groupName": "goalies"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzMw",
+                            "name": "Powerplay points",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNA",
+                            "name": "Plus minus",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNQ",
+                            "name": "Points",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNg",
+                            "name": "First goal scorer",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzNw",
+                            "name": "Last goal scorer",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzOA",
+                            "name": "Faceoffs won",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIzOQ",
+                            "name": "Hits",
+                            "ordinality": null,
+                            "groupName": "skaters"
+                        },
+                        {
+                            "__typename": "Category",
+                            "id": "Z2lkOi8vaHMzL0NhdGVnb3J5LzIyNg",
+                            "name": "Goals",
+                            "ordinality": 1,
+                            "groupName": "skaters"
+                        }
+                    ],
+                    "name": "Ice Hockey"
+                }
+            ]
+        }
+    }
+}
