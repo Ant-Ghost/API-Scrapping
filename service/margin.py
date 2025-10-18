@@ -1,6 +1,7 @@
 from typing import Dict, List, Literal, Optional
 
 from constants.margin import MLB_DATA, NCAA_DATA, NFL_DATA, LeagueNames
+from utils.exception import print_exception
 
 
 
@@ -56,31 +57,43 @@ class DynamicMargin:
     }
 
     def __init__(self) -> None:
-        self.league_to_margin_map = {
-            LeagueNames.NCAA: {},
-            LeagueNames.MLB: {},
-            LeagueNames.NFL: {}
-        }
-        self.set_margins(LeagueNames.NCAA, NCAA_DATA)
-        self.set_margins(LeagueNames.MLB, MLB_DATA)
-        self.set_margins(LeagueNames.NFL, NFL_DATA)
+        try:
+            self.league_to_margin_map = {
+                LeagueNames.NCAA: {},
+                LeagueNames.MLB: {},
+                LeagueNames.NFL: {}
+            }
+            self.set_margins(LeagueNames.NCAA, NCAA_DATA)
+            self.set_margins(LeagueNames.MLB, MLB_DATA)
+            self.set_margins(LeagueNames.NFL, NFL_DATA)
+        except Exception as e:
+            print_exception(e)
+            raise Exception(f"Error initializing DynamicMargin: {str(e)}")
     
     def calc_margin(self, historical_data):
-        if not historical_data:
-            return 0
-        return 0.15 - 0.5 * min(max(historical_data, -0.1), 0.1)
+        try:
+            if not historical_data:
+                return 0
+            return 0.15 - 0.5 * min(max(historical_data, -0.1), 0.1)
+        except Exception as e:
+            print_exception(e)
+            raise Exception(f"Error calculating margin: {str(e)}")
     
     def set_margins(self, league_name: LeagueNames, data_list: List[Dict]):
-        for data in data_list:
-            if not data.get("category_key"):
-                continue
+        try:
+            for data in data_list:
+                if not data.get("category_key"):
+                    continue
 
-            category_name = self.CATEGORIES_NAME_MAP[data["category_key"]]
+                category_name = self.CATEGORIES_NAME_MAP[data["category_key"]]
 
-            self.league_to_margin_map[league_name][category_name] = {
-                "inPlayMargin": self.calc_margin(data.get("historical_inplay_margin")),
-                "preGameMargin":self.calc_margin(data.get("historical_pregame_margin"))
-            }
+                self.league_to_margin_map[league_name][category_name] = {
+                    "inPlayMargin": self.calc_margin(data.get("historical_inplay_margin")),
+                    "preGameMargin":self.calc_margin(data.get("historical_pregame_margin"))
+                }
+        except Exception as e:
+            print_exception(e)
+            raise Exception(f"Error setting margins: {str(e)}")
 
     def get_dynamic_margin(
         self,
@@ -88,12 +101,16 @@ class DynamicMargin:
         category_name: str,
         is_live: bool
     ):
-        margins: Optional[Dict[str, float]] = self.league_to_margin_map[league_name].get(category_name)
-        if not margins:
-            print("Margin not found", league_name, category_name, is_live)
-            return 0.0
-        
-        return margins["inPlayMargin"] if is_live else margins["preGameMargin"]
+        try:
+            margins: Optional[Dict[str, float]] = self.league_to_margin_map[league_name].get(category_name)
+            if not margins:
+                print("Margin not found", league_name, category_name, is_live)
+                return 0.0
+
+            return margins["inPlayMargin"] if is_live else margins["preGameMargin"]
+        except Exception as e:
+            print_exception(e)
+            raise Exception(f"Error getting dynamic margin: {str(e)}")
 
 
 

@@ -26,7 +26,6 @@ player_service = PlayerService(
 )
 dynamic_margin = DynamicMargin()
 
-import ipdb; ipdb.set_trace()
 
 for sport in sport_service.get_allowed_sports():
 
@@ -39,5 +38,3 @@ for sport in sport_service.get_allowed_sports():
         dynamic_margin,
     )
     match_odds_service.perform_match_odds()
-
-    import ipdb; ipdb.set_trace()

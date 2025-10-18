@@ -14,6 +14,7 @@ class Opponent:
     id: str
     designation: Designation
     abbreviation: str
+    sport_name: str
     name: str
 
 @dataclass
@@ -22,7 +23,6 @@ class Game:
     start_time: datetime
     home: Opponent
     away: Opponent
-
 
 @dataclass
 class League:

@@ -2,6 +2,7 @@ from typing import Dict, List
 from constants.sport import SPORTS_GQL_QUERY, SPORTS_OPERATION_NAME
 from domain.sport import Category, CategoryMap, Sport
 from infrastructure.graphql import GQLQueryBuilder
+from utils.exception import print_exception
 
 class SportService:
 
@@ -13,6 +14,7 @@ class SportService:
             self.allowed_sports = allowed_sports
             self.name_to_sport_map = {}
         except Exception as e:
+            print_exception(e)
             raise Exception(f"Error initializing SportService: {str(e)}")
 
     def fetch_sport(self):
@@ -47,16 +49,20 @@ class SportService:
                 if not self.is_all_games and current_sport.name.lower() in self.allowed_sports:
                     self.name_to_sport_map[current_sport.name.lower()] = current_sport
 
-            self.category_map = CategoryMap(sports)
+            allowed_sports = list(self.name_to_sport_map.values())
 
-            return sports
+            self.category_map = CategoryMap(allowed_sports)
+
+            return allowed_sports
         except Exception as e:
+            print_exception(e)
             raise Exception(f"Error fetching sports: {str(e)}")
 
     def get_allowed_sports(self) -> List[Sport]:
         try:
             return list(self.name_to_sport_map.values())
         except Exception as e:
+            print_exception(e)
             raise Exception(f"Error getting allowed sports: {str(e)}")
 
 
