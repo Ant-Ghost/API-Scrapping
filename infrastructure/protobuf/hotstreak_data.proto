@@ -1,0 +1,26 @@
+// hotstreak_data.proto
+
+syntax = "proto3";
+
+// Defines the data structure for a single probability/odds line within a market
+message Probability {
+  double line = 1;      // The player prop line (e.g., 310.5)
+  double over = 2;      // Decimal odds for MORE/OVER (e.g., 1.70)
+  double under = 3;     // Decimal odds for LESS/UNDER (e.g., 1.60)
+  bool suspended = 4;   // Flag indicating if the line is suspended
+}
+
+// Defines a single market (e.g., "Passing Yards")
+message Market {
+  string id = 1;              // Unique ID of the betting line (Odd.id)
+  string category = 2;        // Market name (Odd.market)
+  repeated Probability probabilities = 3; // Array of odds/line data
+  double accrued = 4;         // Likely the current line value (e.g., 310.5)
+}
+
+// Defines the top-level container for all markets in a snapshot
+message Markets {
+  repeated Market markets = 1;  // Array of all Market objects
+  string participantId = 2;     // The ID of the match/player the markets belong to
+  int64 snapshotTime = 3;       // Timestamp of the data
+}

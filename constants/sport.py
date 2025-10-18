@@ -1,0 +1,2 @@
+SPORTS_GQL_QUERY = "query system { system { __typename sports { __typename id categories { __typename id createdAt generatedAt groupName name ordinality updatedAt } name } } }"
+SPORTS_OPERATION_NAME = "system"

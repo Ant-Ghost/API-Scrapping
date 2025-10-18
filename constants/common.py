@@ -1,0 +1,1 @@
+BASE_GQL_URL = "https://api3.hotstreak.gg/graphql"

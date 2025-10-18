@@ -1,0 +1,2 @@
+PLAYER_GQL_QUERY = "query search($query: String $page: Int $filters: SearchFilterInput) { search(query: $query page: $page filters: $filters) { __typename categoryFilters dateFilters gameFilters leagueFilters positionFilters results { __typename markets64 participant { __typename id opponentId player { __typename id createdAt firstName fullName generatedAt lastName position updatedAt } } } sportFilters statusFilters teamFilters totalCount } }"
+PLAYER_OPERATION_NAME = "search"
